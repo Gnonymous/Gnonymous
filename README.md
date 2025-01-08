@@ -1,36 +1,67 @@
-<h1 align="center">你好 👋, 我是 Gnonymous</h1>
-<h3 align="center">一位热爱技术的开发者</h3>
+<div align="center">
+  
+  <!-- dynamic typing effect -->
+  <div>
+    <a href="https://github.com/Gnonymous">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Gnonymous!;Welcome+to+my+GitHub+profile!&center=true&size=27" />
+    </a>
+  </div>
 
-### 关于我 👨‍💻
+  <div>&nbsp;</div>
+  
+  <!-- profile logo -->
+  <div>
+    <a href="[你的个人网站]"><img src="https://img.shields.io/badge/Website-Blog-blue" /></a>&emsp;
+    <a href="[你的GitHub]"><img src="https://img.shields.io/badge/GitHub-Profile-brightgreen" /></a>&emsp;
+    <!-- visitor statistics logo -->
+    <img src="https://komarev.com/ghpvc/?username=Gnonymous&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+</div>
 
-- 🌱 我正在学习 **[您当前学习的技术]**
-- 👨‍💻 我的个人作品集: [在这里展示](您的作品集链接)
-- 💬 可以问我关于 **[您擅长的技术领域]** 的问题
-- 📫 联系我: **您的邮箱**
+<div align="center">
+  English | <a href="README_zh.md">简体中文</a>
+  <br />
+</div>
 
-### 技能树 🛠
+----
 
-<p align="left">
-<!-- 这里可以放置技能图标，访问 https://skillicons.dev 获取 -->
-<img src="https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs" />
-</p>
+# 👨‍💻 About Me
+- 👋 Hello everyone, I am a passionate developer focusing on web technologies
+- 💬 My main interests include: Frontend Development, Backend Architecture, and Cloud Computing
+- 📖 Active contributor to open source projects and technical communities
+- 🪁 Hobbies: Reading, coding, and exploring new technologies
 
-### 统计数据 📊
+----
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gnonymous&show_icons=true&theme=radical" alt="我的 GitHub 统计" />
-</p>
+# 🌼 Open Source Experience
+| Project | Introduction | Note |
+| ----------- | ----------- | ----------- |
+| [Project1](https://github.com/Gnonymous/project1) | A frontend framework for building modern web applications | Lead Developer ![](https://img.shields.io/github/stars/Gnonymous/project1?style=social) |
+| [Project2](https://github.com/Gnonymous/project2) | Backend service implementation with high performance | Contributor ![](https://img.shields.io/github/stars/Gnonymous/project2?style=social) |
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gnonymous&theme=radical" alt="连续提交记录" />
-</p>
+----
 
-### 近期项目 ⚡
+# 🏆 Main Honors
+- [2024.3] Best Contributor Award in OpenSource Project
+- [2023.12] First Prize in Web Development Competition
+- [2023.6] Outstanding Developer of the Year
 
-<!-- 在这里列出您的置顶项目 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=你的项目名称)](https://github.com/Gnonymous/你的项目名称)
+----
 
-### 联系我 📫
+# 🛠 Skills & Technologies
+<img src="./assets/skills.png" alt="My Skills" width="100%">
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gnonymous)
-<!-- 添加其他社交媒体链接 -->
+| Category | Technologies |
+| ----------- | ----------- |
+| Frontend | React, Vue, TypeScript, Webpack |
+| Backend | Node.js, Python, Java |
+| Database | MySQL, MongoDB, Redis |
+| DevOps | Docker, Kubernetes, CI/CD |
+
+----
+
+# 📊 GitHub Stats
+<div align="center">
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Gnonymous&show_icons=true&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnonymous&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+</div>
