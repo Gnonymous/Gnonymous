@@ -11,8 +11,8 @@
   
   <!-- 个人资料徽标 -->
   <div>
-    <a href="https://gnonymous.github.io/" target="_blank"><img src="https://img.shields.io/badge/网站-博客-blue" /></a>&emsp;
-    <a href="https://github.com/Gnonymous?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-仓库-brightgreen" /></a>&emsp;
+    <a href="https://gnonymous.github.io/" target="_blank"><img src="https://img.shields.io/badge/个人-博客-orange" /></a>&emsp;
+    <a href="https://github.com/Gnonymous?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-仓库-lightgreen" /></a>&emsp;
     <a href="https://www.zhihu.com/people/detachment-90-20" target="_blank"><img src="https://img.shields.io/badge/知乎-主页-lightblue" /></a>&emsp;
     <!-- 访问量统计徽标 -->
     <!-- <img src="https://komarev.com/ghpvc/?username=Gnonymous&label=浏览&color=0e75b6&style=flat" alt="访问量统计" /> -->
