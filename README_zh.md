@@ -12,7 +12,7 @@
   <!-- 个人资料徽标 -->
   <div>
     <a href="https://gnonymous.github.io/" target="_blank"><img src="https://img.shields.io/badge/网站-博客-blue" /></a>&emsp;
-    <a href="https://github.com/Gnonymous" target="_blank"><img src="https://img.shields.io/badge/GitHub-主页-brightgreen" /></a>&emsp;
+    <a href="https://github.com/Gnonymous?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-仓库-brightgreen" /></a>&emsp;
     <a href="https://www.zhihu.com/people/detachment-90-20" target="_blank"><img src="https://img.shields.io/badge/知乎-主页-lightblue" /></a>&emsp;
     <!-- 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Gnonymous&label=浏览&color=0e75b6&style=flat" alt="访问量统计" />
@@ -48,7 +48,7 @@
 - [2024.12] **国家奖学金**: 荣获2023-2024学年国家奖学金（前1%）及优秀学业表现（专业第一）。
 - [2024.12] **特等奖学金**: 荣获[中南大学](https://csu.edu.cn/)2023-2024学年特等奖学金（前1%及唯一获奖者）。
 - [2024.09] **保研录取**: 获得[上海交通大学](https://sjtu.edu.cn/)直博录取资格。
-- [2024.08] **DeepShield项目**: 🎉 祝贺我们的项目"DeepShield：融合被动检测与主动标识的深度伪造内容鲁棒防御平台"在[全国大学生信息安全竞赛](http://117.78.33.202/announcement/view/364)中荣获**国家级二等奖**。
+- [2024.08] **DeepShield项目**: 🎉 祝贺我们的项目"DeepShield：深度伪造内容鲁棒防御平台"在[全国大学生信息安全竞赛](http://117.78.33.202/announcement/view/364)中荣获**国家级二等奖(前6-10%）**，总共有852支队伍参赛。
 - [2024.05] **研究实习**: 在[上海交大密西根学院](https://www.ji.sjtu.edu.cn/)开展人车对话中多模态大模型应用研究。
 - [2024.03] **论文接收**: 🎉 我们的论文"[Multi-strategy Adversarial Learning for Robust Face Forgery Detection under Attacks](https://ieeexplore.ieee.org/abstract/document/10688131)"被ICME 2024录用（CCF-B类，Oral论文）。
 - [2024.03] **省级创新项目**: 🎉 祝贺我们的项目获得[湖南省大学生创新项目](http://114.220.75.43:1021/hncxcy)立项并资助，并获评"优秀项目"、"优秀论文"等4项荣誉。我为项目负责人。

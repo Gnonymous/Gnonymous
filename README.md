@@ -12,7 +12,7 @@
   <!-- profile logo -->
   <div>
     <a href="https://gnonymous.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-Blog-blue" /></a>&emsp;
-    <a href="https://github.com/Gnonymous" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-brightgreen" /></a>&emsp;
+    <a href="https://github.com/Gnonymous?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-brightgreen" /></a>&emsp;
     <a href="https://www.zhihu.com/people/detachment-90-20" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo -->
     <img src="https://komarev.com/ghpvc/?username=Gnonymous&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
@@ -45,9 +45,9 @@
 # 🏆 Honors & Awards
 
 - [2024.12] **National Scholarship**: Honored with National Scholarship for the 2023-2024 academic year (Top 1%)
-- [2024.12] **Special Scholarship** Honored with [Central South University](https://csu.edu.cn/) Special Scholarship for the 2023-2024 academic year (Top 1% & Only 1)
-- [2024.09] **Direct Ph.D. Admission** : Having been admitted to [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
-- [2024.08] **DeepShield**: 🎉 Congratulations to our project "Deepshield, A Robust Defense Against Deepfake Fusing Passive Detection and Active Marking" for winning the **National Second Prize** in the [National College Student Information Security Competition](http://117.78.33.202/announcement/view/364).
+- [2024.12] **Special Scholarship**: Honored with [Central South University](https://csu.edu.cn/) Special Scholarship for the 2023-2024 academic year (Top 1% & Only 1)
+- [2024.09] **Direct Ph.D Admission** : Having been admitted to [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
+- [2024.08] **DeepShield**: 🎉 Congratulations to our project "Deepshield, A Robust Defense Against Deepfake" for winning the **National Second Prize(Top 6-10%)** in the [National College Student Information Security Competition](http://117.78.33.202/announcement/view/364)(Totally 852 teams participated).
 - [2024.05] **Research Intern**: At [University of Michigan-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/): Exploring MLLMs in Human-Vehicle Dialogue.
 - [2024.03] **Paper Accepted**: 🎉 Congratulations to our Paper "[Multi-strategy Adversarial Learning for Robust Face Forgery Detection under Attacks](https://ieeexplore.ieee.org/abstract/document/10688131)" has accepted to ICME 2024 (CCF-B, Oral Paper).
 - [2024.03] **Provincial Innovation Project**: 🎉 Congratulations to our project for receiving funding from [College Student Innovation Project in Hunan Province](http://114.220.75.43:1021/hncxcy), which was awarded "Outstanding Project & Paper" among 4 other accolades. I'm the **leader** of this project.
