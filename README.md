@@ -25,12 +25,11 @@
 </div>
 
 ----
-
 # 👨‍💻 About Me
-- 👋 Hello everyone, I am a passionate developer focusing on web technologies
-- 💬 My main interests include: Frontend Development, Backend Architecture, and Cloud Computing
-- 📖 Active contributor to open source projects and technical communities
-- 🪁 Hobbies: Reading, coding, and exploring new technologies
+- 👋 Hello everyone, I am a senior undergraduate student from [Central South University](http://www.csu.edu.cn/), and I have been admitted to [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) for a direct Ph.D. program.
+- 💬 My research interests include: AI Agents (recent focus), Multimodal Large Language Models, Embodied Intelligence, and Deepfake Detection (previous work).
+- 📢 I'm looking for like-minded partners (in open source contributions or research collaboration)!
+- 🪁 Hobbies: Engaging in discussions, contributing to communities, and singing.
 
 ----
 
