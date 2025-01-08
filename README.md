@@ -28,8 +28,8 @@
 # 👨‍💻 About Me
 - 👋 Hi, I'm a senior undergrad from [Central South University](http://www.csu.edu.cn/), having been admitted to [Shanghai Jiao Tong University](https://sjtu.edu.cn/) for a direct Ph.D.
 - 💬 My research interests: AI Agents (recent focus), Multimodal Large Language Models(MLLMs), Embodied Intelligence, and Deepfake Detection (previous works).
-- 📢 Seeking like-minded partners for open source or research collaboration. Contact: [gnonymous.ai@gmail.com](mailto:gnonymous.ai@gmail.com).
-- 🪁 Hobbies: Discussions, community contributions, singing.
+- 📢 Seeking like-minded partners for Open Source or Academic Research Collaboration. Contact: [gnonymous.ai@gmail.com](mailto:gnonymous.ai@gmail.com).
+- 🪁 Hobbies: Discussions, Community contributions, Singing.
 
 ----
 
@@ -49,8 +49,9 @@
 - [2024.09] **Direct Ph.D Admission** : Having been admitted to [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
 - [2024.08] **DeepShield**: 🎉 Congratulations to our project "Deepshield, A Robust Defense Against Deepfake" for winning the **National Second Prize(Top 6-10%)** in the [National College Student Information Security Competition](http://117.78.33.202/announcement/view/364)(Totally 852 teams participated).
 - [2024.05] **Research Intern**: At [University of Michigan-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/): Exploring MLLMs in Human-Vehicle Dialogue.
-- [2024.03] **Paper Accepted**: 🎉 Congratulations to our Paper "[Multi-strategy Adversarial Learning for Robust Face Forgery Detection under Attacks](https://ieeexplore.ieee.org/abstract/document/10688131)" has accepted to ICME 2024 (CCF-B, Oral Paper).
+- [2024.03] **Paper Accepted**: 🎉 Congratulations to our Paper "[Multi-strategy Adversarial Learning for Robust Face Forgery Detection under Attacks](https://ieeexplore.ieee.org/abstract/document/10688131)" has accepted to ICME 2024 as Oral Paper (CCF-B Conference).
 - [2024.03] **Provincial Innovation Project**: 🎉 Congratulations to our project for receiving funding from [College Student Innovation Project in Hunan Province](http://114.220.75.43:1021/hncxcy), which was awarded "Outstanding Project & Paper" among 4 other accolades. I'm the **leader** of this project.
+- [2022-2024] **Excellent Student & Cadre**: Honored with Excellent Student and Excellent Student Cadre of [Central South University](https://csu.edu.cn/)(Totally 700+ students in the grades).
 - [2022.12] **National Scholarship**: Honored with National Scholarship for the 2021-2022 academic year (Top 1% & Only 1)
 
 ----
