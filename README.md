@@ -13,7 +13,7 @@
   <div>
     <a href="https://gnonymous.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-Blog-orange" /></a>&emsp;
     <a href="https://github.com/Gnonymous?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-lightgreen" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/detachment-90-20" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-lightblue" /></a>&emsp;
+    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2500&pause=1000&color=5c5c4a&center=true&vCenter=true&width=600&height=80&lines=暂时还未上线🤗!&center=true&size=50" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-lightblue" /></a>&emsp;
     <!-- visitor statistics logo -->
     <img src="https://komarev.com/ghpvc/?username=Gnonymous&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
