@@ -3,7 +3,7 @@
   <!-- dynamic typing effect -->
   <div>
     <a href="https://github.com/Gnonymous">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=80&lines=Let's+Brainstorm+Together+🧠!&center=true&size=35" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=80&lines=Let's+Brainstorm+Together+🧠!&center=true&size=35" />
     </a>
   </div>
 
