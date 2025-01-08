@@ -3,7 +3,7 @@
   <!-- 动态打字效果 -->
   <div>
     <a href="https://github.com/Gnonymous">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=让我们一起头脑风暴+🧠！&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=465&lines=让我们一起头脑风暴+🧠！&center=true&size=27" />
     </a>
   </div>
 
