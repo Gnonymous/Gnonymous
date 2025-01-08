@@ -57,5 +57,5 @@
 ----
 
 # 📊 GitHub 统计
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gnonymous&show_icons=true&include_all_commits=true&theme=blue&hide_border=true" alt="github stats" /></a> 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnonymous&layout=compact&theme=blue&hide_border=true" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gnonymous&show_icons=true&include_all_commits=true&theme=blue&hide_border=true&locale=cn" alt="github stats" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnonymous&layout=compact&theme=blue&hide_border=true&locale=cn" /></a> 
