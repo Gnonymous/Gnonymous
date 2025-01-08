@@ -33,7 +33,7 @@
 
 ----
 
-# 🌼 Open Source Projects
+# 📂 Open Source Projects
 | Project | Introduction | Note |
 | ----------- | ----------- | ----------- |
 | [Simple-ChatBot](https://github.com/Gnonymous/Simple-ChatBot) | An Intelligent Voice Interactive Robot based on python(using API). | Owner ![](https://img.shields.io/github/stars/Gnonymous/Simple-ChatBot?style=social) |

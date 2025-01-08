@@ -34,7 +34,7 @@
 
 ----
 
-# 🌼 开源项目
+# 📂 开源项目
 | 项目 | 简介 | 备注 |
 | ----------- | ----------- | ----------- |
 | [Simple-ChatBot](https://github.com/Gnonymous/Simple-ChatBot) | 一个基于 Python 的智能语音交互机器人项目。 该项目是我在中南大学（CSU）人机交互（HCI）课程中的实验之一。 | 所有者 ![](https://img.shields.io/github/stars/Gnonymous/Simple-ChatBot?style=social) |
