@@ -3,7 +3,7 @@
   <!-- 动态打字效果 -->
   <div>
     <a href="https://github.com/Gnonymous">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=欢迎来到我的主页！&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=让我们一起头脑风暴+🧠！&center=true&size=27" />
     </a>
   </div>
 
@@ -42,10 +42,31 @@
 
 ----
 
-# 🏆 主要荣誉
-- [2024.3] 开源项目最佳贡献者
-- [2023.12] Web开发竞赛一等奖
-- [2023.6] 年度杰出开发者
+# 🏆 荣誉奖项
+
+- [2024.12] **国家奖学金**: 荣获2023-2024学年国家奖学金（前1%）及优秀学业表现（专业第一）。
+- [2024.09] **保研录取**: 获得[上海交通大学](https://sjtu.edu.cn/)直博录取资格。
+- [2024.08] **DeepShield项目**: 🎉祝贺我们的项目"DeepShield：融合被动检测与主动标识的深度伪造内容鲁棒防御平台"在[全国大学生信息安全竞赛](http://117.78.33.202/announcement/view/364)中荣获**国家级二等奖**。
+- [2024.05] **研究实习**: 在[上海交大密西根学院](https://www.ji.sjtu.edu.cn/)开展人车对话中多模态大模型应用研究。
+- [2024.03] **论文接收**: 🎉我们的论文"[Multi-strategy Adversarial Learning for Robust Face Forgery Detection under Attacks](https://ieeexplore.ieee.org/abstract/document/10688131)"被ICME 2024录用（CCF-B类，Oral论文）。
+- [2024.03] **省级创新项目**: 🎉祝贺我们的项目获得湖南省大学生创新创业项目立项，并获评"优秀项目"、"优秀论文"等4项荣誉。我为项目负责人。
+- [2022.12] **国家奖学金**: 荣获2021-2022学年国家奖学金（前1%）及优秀学业表现（专业第一）。
+
+### 🔬 研究项目
+- **人脸伪造检测系统** [2024.1 - 至今]
+  - 主持"针对人脸操纵检测与定位的双流网络"项目
+  - 在FaceForensics++基准测试上取得领先性能
+  - 进展：框架完成，论文撰写中
+
+- **DeepShield：反深度伪造平台** [2023.6 - 2023.12]
+  - 主导开发抗深度伪造内容的鲁棒防御系统
+  - 创新性结合被动检测与主动标识方法
+  - 成果：获得"优秀创新"、"最佳论文"等4项奖励
+
+- **多模态理解研究** [2023.12 - 2024.2]
+  - 研究自动驾驶场景中的行人识别问题
+  - 整合视觉-语言模型与分割基础模型
+  - 平台：上海交大AI实验室研究项目
 
 ----
 
