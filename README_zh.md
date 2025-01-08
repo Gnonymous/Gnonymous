@@ -1,9 +1,9 @@
 <div align="center">
   
   <!-- 动态打字效果 -->
-  <div>
+ <div>
     <a href="https://github.com/Gnonymous">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=465&lines=让我们一起头脑风暴+🧠！&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=80&lines=让我们一起头脑风暴+🧠!&center=true&size=50" />
     </a>
   </div>
 
@@ -57,5 +57,5 @@
 ----
 
 # 📊 GitHub 统计
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gnonymous&show_icons=true&include_all_commits=true&theme=blue&hide_border=true&locale=cn" alt="github stats" /></a> 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnonymous&layout=compact&theme=blue&hide_border=true&locale=cn" /></a> 
+<a href="https://github.com/Gnonymous"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gnonymous&show_icons=true&include_all_commits=true&theme=blue&hide_border=true&locale=cn" alt="github stats" /></a> 
+<a href="https://github.com/Gnonymous"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnonymous&layout=compact&theme=blue&hide_border=true&locale=cn" /></a> 

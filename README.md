@@ -3,7 +3,7 @@
   <!-- dynamic typing effect -->
   <div>
     <a href="https://github.com/Gnonymous">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=465&lines=Let's+Brainstorm+Together+🧠!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=80&lines=Let's+Brainstorm+Together+🧠!&center=true&size=35" />
     </a>
   </div>
 
@@ -56,5 +56,6 @@
 ----
 
 # 📊 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gnonymous&show_icons=true&include_all_commits=true&theme=blue&hide_border=true" alt="github stats" /></a> 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnonymous&layout=compact&theme=blue&hide_border=true" /></a> 
+
+<a href="https://github.com/Gnonymous"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gnonymous&show_icons=true&include_all_commits=true&theme=blue&hide_border=true" alt="github stats" /></a> 
+<a href="https://github.com/Gnonymous"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnonymous&layout=compact&theme=blue&hide_border=true" /></a> 
