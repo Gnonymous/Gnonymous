@@ -19,7 +19,7 @@
   </div>
 </div>
 
-<div align="center">
+<div align="center" style="font-size: 18px;">
   English | <a href="README_zh.md">简体中文</a>
   <br />
 </div>
