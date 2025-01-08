@@ -36,9 +36,9 @@
 # 🌼 Open Source Projects
 | Project | Introduction | Note |
 | ----------- | ----------- | ----------- |
-| [Simple-ChatBot](https://github.com/Gnonymous/Simple-ChatBot) | An Intelligent Voice Interactive Robot based on python(using API). | Leader ![](https://img.shields.io/github/stars/Gnonymous/Simple-ChatBot?style=social) |
-| [Simple-MLLM](https://github.com/Gnonymous/Simple-MLLM) | A lightweight locally deployed Multimodal Large Model (MLLM) practice. | Leader ![](https://img.shields.io/github/stars/Gnonymous/Simple-MLLM?style=social) |
-| [FaceForensics-Toolkit](https://github.com/Gnonymous/Simple-MLLM) | An enhanced toolkit with some updated methods processing original FaceForensics++ dataset. | Leader ![](https://img.shields.io/github/stars/Gnonymous/FaceForensics-Toolkit?style=social) |
+| [Simple-ChatBot](https://github.com/Gnonymous/Simple-ChatBot) | An Intelligent Voice Interactive Robot based on python(using API). | Owner ![](https://img.shields.io/github/stars/Gnonymous/Simple-ChatBot?style=social) |
+| [Simple-MLLM](https://github.com/Gnonymous/Simple-MLLM) | A lightweight locally deployed Multimodal Large Model (MLLM) practice. | Owner ![](https://img.shields.io/github/stars/Gnonymous/Simple-MLLM?style=social) |
+| [FaceForensics-Toolkit](https://github.com/Gnonymous/Simple-MLLM) | An enhanced toolkit with some updated methods processing original FaceForensics++ dataset. | Owner ![](https://img.shields.io/github/stars/Gnonymous/FaceForensics-Toolkit?style=social) |
 
 ----
 

@@ -15,7 +15,7 @@
     <a href="https://github.com/Gnonymous?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-仓库-brightgreen" /></a>&emsp;
     <a href="https://www.zhihu.com/people/detachment-90-20" target="_blank"><img src="https://img.shields.io/badge/知乎-主页-lightblue" /></a>&emsp;
     <!-- 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=Gnonymous&label=浏览&color=0e75b6&style=flat" alt="访问量统计" />
+    <!-- <img src="https://komarev.com/ghpvc/?username=Gnonymous&label=浏览&color=0e75b6&style=flat" alt="访问量统计" /> -->
   </div>
 </div>
 
@@ -37,9 +37,9 @@
 # 🌼 开源项目
 | 项目 | 简介 | 备注 |
 | ----------- | ----------- | ----------- |
-| [Simple-ChatBot](https://github.com/Gnonymous/Simple-ChatBot) | 基于Python的智能语音交互机器人 | 负责人 ![](https://img.shields.io/github/stars/Gnonymous/Simple-ChatBot?style=social) |
-| [Simple-MLLM](https://github.com/Gnonymous/Simple-MLLM) | 轻量级本地部署的多模态大模型（MLLM）实践 | 负责人 ![](https://img.shields.io/github/stars/Gnonymous/Simple-MLLM?style=social) |
-| [FaceForensics-Toolkit](https://github.com/Gnonymous/Simple-MLLM) | 增强工具包，包含处理原始FaceForensics++数据集的一些更新方法 | 负责人 ![](https://img.shields.io/github/stars/Gnonymous/FaceForensics-Toolkit?style=social) |
+| [Simple-ChatBot](https://github.com/Gnonymous/Simple-ChatBot) | 基于Python的智能语音交互机器人 | 所有者 ![](https://img.shields.io/github/stars/Gnonymous/Simple-ChatBot?style=social) |
+| [Simple-MLLM](https://github.com/Gnonymous/Simple-MLLM) | 轻量级本地部署的多模态大模型（MLLM）实践 | 所有者 ![](https://img.shields.io/github/stars/Gnonymous/Simple-MLLM?style=social) |
+| [FaceForensics-Toolkit](https://github.com/Gnonymous/Simple-MLLM) | 增强工具包，包含处理原始FaceForensics++数据集的一些更新方法 | 所有者 ![](https://img.shields.io/github/stars/Gnonymous/FaceForensics-Toolkit?style=social) |
 
 ----
 
