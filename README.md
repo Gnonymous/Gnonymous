@@ -55,18 +55,6 @@
 
 ----
 
-# 🛠 Skills & Technologies
-<img src="./assets/skills.png" alt="My Skills" width="100%">
-
-| Category | Technologies |
-| ----------- | ----------- |
-| Frontend | React, Vue, TypeScript, Webpack |
-| Backend | Node.js, Python, Java |
-| Database | MySQL, MongoDB, Redis |
-| DevOps | Docker, Kubernetes, CI/CD |
-
-----
-
 # 📊 GitHub Stats
 <div align="center">
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Gnonymous&show_icons=true&theme=light" />

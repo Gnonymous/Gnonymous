@@ -56,18 +56,6 @@
 
 ----
 
-# 🛠 技能与技术
-<img src="./assets/skills.png" alt="技能树" width="100%">
-
-| 类别 | 技术栈 |
-| ----------- | ----------- |
-| 前端 | React, Vue, TypeScript, Webpack |
-| 后端 | Node.js, Python, Java |
-| 数据库 | MySQL, MongoDB, Redis |
-| 运维 | Docker, Kubernetes, CI/CD |
-
-----
-
 # 📊 GitHub 统计
 <div align="center">
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Gnonymous&show_icons=true&theme=light&locale=cn" />
