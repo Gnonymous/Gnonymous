@@ -3,7 +3,7 @@
   <!-- 动态打字效果 -->
   <div>
     <a href="https://github.com/Gnonymous">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你好，我是+Gnonymous!;欢迎来到我的+GitHub+主页！&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=欢迎来到我的主页！&center=true&size=27" />
     </a>
   </div>
 
@@ -11,10 +11,11 @@
   
   <!-- 个人资料徽标 -->
   <div>
-    <a href="[你的个人网站]"><img src="https://img.shields.io/badge/网站-博客-blue" /></a>&emsp;
-    <a href="[你的GitHub]"><img src="https://img.shields.io/badge/GitHub-主页-brightgreen" /></a>&emsp;
+    <a href="[https://gnonymous.github.io/]"><img src="https://img.shields.io/badge/网站-博客-blue" /></a>&emsp;
+    <a href="[https://github.com/Gnonymous]"><img src="https://img.shields.io/badge/GitHub-主页-brightgreen" /></a>&emsp;
+    <a href="[https://www.zhihu.com/people/detachment-90-20]"><img src="https://img.shields.io/badge/知乎-主页-lightblue" /></a>&emsp;
     <!-- 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=Gnonymous&label=访问量&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=Gnonymous&label=浏览&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 </div>
 

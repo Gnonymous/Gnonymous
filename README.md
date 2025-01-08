@@ -3,7 +3,7 @@
   <!-- dynamic typing effect -->
   <div>
     <a href="https://github.com/Gnonymous">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Gnonymous!;Welcome+to+my+GitHub+profile!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile!&center=true&size=27" />
     </a>
   </div>
 
@@ -11,8 +11,9 @@
   
   <!-- profile logo -->
   <div>
-    <a href="[你的个人网站]"><img src="https://img.shields.io/badge/Website-Blog-blue" /></a>&emsp;
-    <a href="[你的GitHub]"><img src="https://img.shields.io/badge/GitHub-Profile-brightgreen" /></a>&emsp;
+    <a href="[https://gnonymous.github.io/]"><img src="https://img.shields.io/badge/Website-Blog-blue" /></a>&emsp;
+    <a href="[https://github.com/Gnonymous]"><img src="https://img.shields.io/badge/GitHub-Profile-brightgreen" /></a>&emsp;
+    <a href="[https://www.zhihu.com/people/detachment-90-20]"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo -->
     <img src="https://komarev.com/ghpvc/?username=Gnonymous&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
