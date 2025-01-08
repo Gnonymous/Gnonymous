@@ -33,10 +33,10 @@
 
 ----
 
-# 🌼 Open Source Experience
+# 🌼 Open Source Projects
 | Project | Introduction | Note |
 | ----------- | ----------- | ----------- |
-| [Simple-ChatBot](https://github.com/Gnonymous/Simple-ChatBot) | Backend service implementation with high performance | Leader ![](https://img.shields.io/github/stars/Gnonymous/Simple-ChatBot?style=social) |
+| [Simple-ChatBot](https://github.com/Gnonymous/Simple-ChatBot) | An Intelligent Voice Interactive Robot based on python(using API). | Leader ![](https://img.shields.io/github/stars/Gnonymous/Simple-ChatBot?style=social) |
 | [Simple-MLLM](https://github.com/Gnonymous/Simple-MLLM) | A lightweight locally deployed Multimodal Large Model (MLLM) practice. | Leader ![](https://img.shields.io/github/stars/Gnonymous/Simple-MLLM?style=social) |
 | [FaceForensics-Toolkit](https://github.com/Gnonymous/Simple-MLLM) | An enhanced toolkit with some updated methods processing original FaceForensics++ dataset. | Leader ![](https://img.shields.io/github/stars/Gnonymous/FaceForensics-Toolkit?style=social) |
 
@@ -44,13 +44,14 @@
 
 # 🏆 Honors & Awards
 
-- [2024.12] **National Scholarship**: Honored with National Scholarship for the 2023-2024 academic year (Top 1%) & Outstanding Academic Performance (Rank 1)
-- [2024.9] **Direct Ph.D. Admission** : Having been admitted to [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
-- [2024.8] **DeepShield**: 🎉Congratulations to our project "Deepshield, A Robust Defense Against Deepfake Fusing Passive Detection and Active Marking" for winning the **National Second Prize** in the [National College Student Information Security Competition](http://117.78.33.202/announcement/view/364)
-- [2024.05] **Research Intern**: At [University of Michigan-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/): Exploring MLLMs in Human-Vehicle Dialogue
-- [2024.03] **Paper Accepted**: 🎉Congratulations to our Paper "[Multi-strategy Adversarial Learning for Robust Face Forgery Detection under Attacks](https://ieeexplore.ieee.org/abstract/document/10688131)" has accepted to ICME 2024 (CCF-B, Oral Paper)
-- [2024.03] **Provincial Innovation Project**: 🎉Congratulations to our project for being awarded the Provincial College Student Innovation and Entrepreneurship Project in Hunan Province, which was awarded "Outstanding Project" and "Outstanding Paper" among 4 other accolades. I'm the leader of this project.
-- [2022.12] **National Scholarship**: Honored with National Scholarship for the 2021-2022 academic year (Top 1%) & Outstanding Academic Performance (Rank 1)
+- [2024.12] **National Scholarship**: Honored with National Scholarship for the 2023-2024 academic year (Top 1%)
+- [2024.12] **Special Scholarship** Honored with [Central South University](https://csu.edu.cn/) Special Scholarship for the 2023-2024 academic year (Top 1% & Only 1)
+- [2024.09] **Direct Ph.D. Admission** : Having been admitted to [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
+- [2024.08] **DeepShield**: 🎉 Congratulations to our project "Deepshield, A Robust Defense Against Deepfake Fusing Passive Detection and Active Marking" for winning the **National Second Prize** in the [National College Student Information Security Competition](http://117.78.33.202/announcement/view/364).
+- [2024.05] **Research Intern**: At [University of Michigan-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/): Exploring MLLMs in Human-Vehicle Dialogue.
+- [2024.03] **Paper Accepted**: 🎉 Congratulations to our Paper "[Multi-strategy Adversarial Learning for Robust Face Forgery Detection under Attacks](https://ieeexplore.ieee.org/abstract/document/10688131)" has accepted to ICME 2024 (CCF-B, Oral Paper).
+- [2024.03] **Provincial Innovation Project**: 🎉 Congratulations to our project for receiving funding from [College Student Innovation Project in Hunan Province](http://114.220.75.43:1021/hncxcy), which was awarded "Outstanding Project & Paper" among 4 other accolades. I'm the **leader** of this project.
+- [2022.12] **National Scholarship**: Honored with National Scholarship for the 2021-2022 academic year (Top 1% & Only 1)
 
 ----
 
