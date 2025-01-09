@@ -26,7 +26,8 @@
 
 ----
 # 👨‍💻 About Me
-- 👋 Hi, I'm a senior undergrad from [Central South University](http://www.csu.edu.cn/), having been admitted to [Shanghai Jiao Tong University](https://sjtu.edu.cn/) for a direct Ph.D.
+> For more, you can also visit my [Personal Website](https://gnonymous.github.io)
+- 👋 Hi, I'm a senior undergrad from [Central South University](http://www.csu.edu.cn/), having been admitted to [Shanghai Jiao Tong University](https://sjtu.edu.cn/) for a direct Ph.D program.
 - 💬 My research interests: AI Agents (recent focus), Multimodal Large Language Models(MLLMs), Embodied Intelligence, and Deepfake Detection (previous works).
 - 📢 Seeking like-minded partners for Open Source or Academic Research Collaboration. Contact: [gnonymous.ai@gmail.com](mailto:gnonymous.ai@gmail.com).
 - 🪁 Hobbies: Discussions, Community contributions, Singing.
