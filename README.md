@@ -3,7 +3,7 @@
   <!-- dynamic typing effect -->
   <div>
     <a href="https://github.com/Gnonymous">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2500&pause=1000&color=5c5c4a&center=true&vCenter=true&width=600&height=80&lines=Let's+Brainstorm+Together+🤯!&center=true&size=35" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2500&pause=1000&color=ff9966&center=true&vCenter=true&width=600&height=80&lines=Let's+Brainstorm+Together+🤯!&center=true&size=35" />
     </a>
   </div>
 
@@ -11,7 +11,7 @@
   
   <!-- profile logo -->
   <div>
-    <a href="https://gnonymous.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-Blog-orange" /></a>&emsp;
+    <a href="https://gnonymous.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-Intro-orange" /></a>&emsp;
     <a href="https://github.com/Gnonymous?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-lightgreen" /></a>&emsp;
     <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2500&pause=1000&color=5c5c4a&center=true&vCenter=true&width=600&height=80&lines=暂时还未上线🤗!&center=true&size=50" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-lightblue" /></a>&emsp;
     <!-- visitor statistics logo -->
@@ -25,17 +25,17 @@
 </div>
 
 ----
-# 👨‍💻 About Me
+# 🍀 About Me
 > Meanwhile, you can also visit my [Personal Website](https://gnonymous.github.io) for more information.
 - 👋 Hi, I'm a senior undergrad from [Central South University](http://www.csu.edu.cn/), having been admitted to [Shanghai Jiao Tong University](https://sjtu.edu.cn/) for a direct Ph.D program.
-- 💬 My research interests: AI Agents (recent focus), Multimodal Large Language Models(MLLMs), Embodied Intelligence, and Deepfake Detection (previous works).
+- 💭 My research interests: AI Agents (recent focus), Multimodal Large Language Models(MLLMs), Embodied Intelligence, and Deepfake Detection (Previous Works).
 - 📢 Seeking like-minded partners for Open Source or Academic Research Collaboration. Contact: [gnonymous.ai@gmail.com](mailto:gnonymous.ai@gmail.com).
 - 🪁 Hobbies: Discussions, Community contributions, Singing.
 
 ----
 
-# 📂 Open Source Projects
-| Project | Introduction | Note |
+# 🗂️ Open Source Projects
+| Project | Abstract | Roles |
 | ----------- | ----------- | ----------- |
 | [Simple-ChatBot](https://github.com/Gnonymous/Simple-ChatBot) | An Intelligent Voice Interactive Robot based on python(using API). | Owner ![](https://img.shields.io/github/stars/Gnonymous/Simple-ChatBot?style=social) |
 | [Simple-MLLM](https://github.com/Gnonymous/Simple-MLLM) | A lightweight locally deployed Multimodal Large Model (MLLM) practice. | Owner ![](https://img.shields.io/github/stars/Gnonymous/Simple-MLLM?style=social) |
@@ -43,7 +43,7 @@
 
 ----
 
-# 🏆 Honors & Awards
+# 🏆 Honors & Expriences
 
 - [2024.12] **National Scholarship**: Honored with National Scholarship for the 2023-2024 academic year (Top 1%)
 - [2024.12] **Special Scholarship**: Honored with [Central South University](https://csu.edu.cn/) Special Scholarship for the 2023-2024 academic year (Top 1% & Only 1)
