@@ -1,3 +1,5 @@
 # Ignore demo.md file
 demo.md
 .DS_Store
+tools.py
+output.jpg
