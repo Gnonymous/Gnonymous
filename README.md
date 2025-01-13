@@ -4,7 +4,7 @@
   <div>
     <a href="https://github.com/Gnonymous">
       <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2500&pause=1000&color=ff9966&center=true&vCenter=true&width=600&height=80&lines=Let's+Brainstorm+Together+🤯!&center=true&size=35" /> -->
-        <img src="images/AI Extender.PNG" width="auto" height="230"/>
+        <img src="images/output.png" width="auto" height="230"/>
     </a>
   </div>
 
