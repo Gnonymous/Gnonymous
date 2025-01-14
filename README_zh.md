@@ -15,6 +15,7 @@
     <a href="https://gnonymous.github.io/" target="_blank"><img src="https://img.shields.io/badge/个人-博客-orange" /></a>&emsp;
     <a href="https://github.com/Gnonymous?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-仓库-lightgreen" /></a>&emsp;
     <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2500&pause=1000&color=5c5c4a&center=true&vCenter=true&width=600&height=80&lines=暂时还未上线🤗!&center=true&size=50" target="_blank"><img src="https://img.shields.io/badge/知乎-主页-lightblue" /></a>&emsp;
+    <a href="https://twitter.com/GnonymousAI"><img src="https://img.shields.io/twitter/follow/GnonymousAI" alt="Twitter Follow"></a>&emsp;
     <!-- 访问量统计徽标 -->
     <!-- <img src="https://komarev.com/ghpvc/?username=Gnonymous&label=浏览&color=0e75b6&style=flat" alt="访问量统计" /> -->
   </div>
