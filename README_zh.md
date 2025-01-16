@@ -12,7 +12,7 @@
   
   <!-- 个人资料徽标 -->
   <div>
-    <a href="https://gnonymous.github.io/" target="_blank"><img src="https://img.shields.io/badge/个人-博客-orange" /></a>&emsp;
+    <a href="https://eohan.me/" target="_blank"><img src="https://img.shields.io/badge/个人-博客-orange" /></a>&emsp;
     <a href="https://github.com/Gnonymous?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-仓库-lightgreen" /></a>&emsp;
     <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2500&pause=1000&color=5c5c4a&center=true&vCenter=true&width=600&height=80&lines=暂时还未上线🤗!&center=true&size=50" target="_blank"><img src="https://img.shields.io/badge/知乎-主页-lightblue" /></a>&emsp;
     <a href="https://twitter.com/GnonymousAI"><img src="https://img.shields.io/twitter/follow/GnonymousAI" alt="Twitter Follow"></a>&emsp;
@@ -29,7 +29,7 @@
 ----
 
 # 🍀 关于我
-> 同时，你也可以访问我的[个人主页](https://gnonymous.github.io)来获取更多。
+> 同时，你也可以访问我的[个人主页](https://eohan.me/)来获取更多。
 - 👋 嗨！我是来自[中南大学](http://www.csu.edu.cn/)的大四本科生，目前已保研直博至[上海交通大学](https://en.sjtu.edu.cn/)。
 - 💭 我的研究兴趣包括：AI智能体（近期关注）、多模态大模型、具身智能、Deepfake检测（之前的工作）等。
 - 📢 我正在寻找志同道合的伙伴，共同进行开源贡献或学术研究合作！如果感兴趣，请通过邮箱与我联系：[gnonymous.ai@gmail.com](mailto:gnonymous.ai@gmail.com)。

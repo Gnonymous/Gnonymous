@@ -12,7 +12,7 @@
   
   <!-- profile logo -->
   <div align="center">
-    <a href="https://gnonymous.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-Intro-orange" /></a>&emsp;
+    <a href="https://eohan.me/" target="_blank"><img src="https://img.shields.io/badge/Website-Intro-orange" /></a>&emsp;
     <a href="https://github.com/Gnonymous?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-lightgreen" /></a>&emsp;
     <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2500&pause=1000&color=5c5c4a&center=true&vCenter=true&width=600&height=80&lines=暂时还未上线🤗!&center=true&size=50" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎-lightblue" /></a>&emsp;
     <a href="https://twitter.com/GnonymousAI"><img src="https://img.shields.io/twitter/follow/GnonymousAI" alt="Twitter Follow"></a>&emsp;
@@ -28,7 +28,7 @@
 
 ----
 # 🍀 About Me
-> Meanwhile, you can also visit my [Personal Website](https://gnonymous.github.io) for more information.
+> Meanwhile, you can also visit my [Personal Website](https://eohan.me/) for more information.
 - 👋 Hi, I'm a senior undergrad from [Central South University](http://www.csu.edu.cn/), having been admitted to [Shanghai Jiao Tong University](https://sjtu.edu.cn/) for a direct Ph.D program.
 - 💭 My research interests: AI Agents (recent focus), Multimodal Large Language Models(MLLMs), Embodied Intelligence, and Deepfake Detection (Previous Works).
 - 📢 Seeking like-minded partners for Open Source or Academic Research Collaboration. Contact: [gnonymous.ai@gmail.com](mailto:gnonymous.ai@gmail.com).
