@@ -4,7 +4,7 @@
  <div>
     <a href="https://github.com/Gnonymous">
       <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2500&pause=1000&color=ff9966&center=true&vCenter=true&width=600&height=80&lines=让我们一起头脑风暴+🤯!&center=true&size=50" /> -->
-      <img src="images/background.PNG" width="auto" height="250"/>
+      <img src="profile-3d-contrib/background.PNG" width="auto" height="250"/>
     </a>
   </div>
 
@@ -61,5 +61,7 @@
 ----
 
 # 📊 GitHub 统计
-<a href="https://github.com/Gnonymous"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gnonymous&show_icons=true&include_all_commits=true&theme=blue&hide_border=true&locale=cn" alt="github stats" /></a> 
-<a href="https://github.com/Gnonymous"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnonymous&layout=compact&theme=blue&hide_border=true&locale=cn" /></a> 
+<!-- <a href="https://github.com/Gnonymous"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Gnonymous&show_icons=true&include_all_commits=true&theme=blue&hide_border=true&locale=cn" alt="github stats" /></a> 
+<a href="https://github.com/Gnonymous"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnonymous&layout=compact&theme=blue&hide_border=true&locale=cn" /></a>  -->
+
+![](./profile-3d-contrib/profile-south-season-animate.svg) 
