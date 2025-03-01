@@ -12,9 +12,9 @@
   <!-- profile logo badges -->
   <div align="center">
     <a href="https://eohan.me/" target="_blank"><img src="https://img.shields.io/badge/Website-eohan.me-orange?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>&emsp;
-    <a href="https://github.com/Gnonymous?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repositories-lightgreen?style=for-the-badge&logo=github&logoColor=white" /></a>&emsp;
+    <a href="https://github.com/Gnonymous?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-lightgreen?style=for-the-badge&logo=github&logoColor=white" /></a>&emsp;
     <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2500&pause=1000&color=5c5c4a&center=true&vCenter=true&width=600&height=80&lines=暂时还未上线🤗!&center=true&size=50" target="_blank"><img src="https://img.shields.io/badge/知乎-Zhihu-blue?style=for-the-badge&logo=zhihu&logoColor=white" /></a>&emsp;
-    <a href="https://twitter.com/GnonymousAI"><img src="https://img.shields.io/badge/account-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Follow"></a>&emsp;
+    <a href="https://twitter.com/GnonymousAI"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Follow"></a>&emsp;
     <!-- visitor statistics badge -->
     <img src="https://komarev.com/ghpvc/?username=Gnonymous&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Visit Count" />
   </div>
@@ -121,9 +121,9 @@
 | [2024.12] | **Special Scholarship**: Honored with [Central South University](https://csu.edu.cn/) Special Scholarship for the 2023-2024 academic year (Top 1% & Only 1) | ![Academic](https://img.shields.io/badge/-Academic-gold) |
 | [2024.09] | **Direct Ph.D Admission**: Having been admitted to [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) | ![Admission](https://img.shields.io/badge/-Admission-blue) |
 | [2024.08] | **DeepShield**: 🎉 Congratulations to our project "Deepshield, A Robust Defense Against Deepfake" for winning the **National Second Prize(Top 6-10%)** in the [National College Student Information Security Competition](http://117.78.33.202/announcement/view/364)(Totally 852 teams participated). | ![Competition](https://img.shields.io/badge/-Competition-red) |
-| [2024.05] | **Research Intern**: At [University of Michigan-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/): Exploring MLLMs in Human-Vehicle Dialogue. | ![Research](https://img.shields.io/badge/-Research-green) |
-| [2024.03] | **Paper Accepted**: 🎉 Congratulations to our Paper "[Multi-strategy Adversarial Learning for Robust Face Forgery Detection under Attacks](https://ieeexplore.ieee.org/abstract/document/10688131)" has accepted to ICME 2024 as Oral Paper (CCF-B Conference). | ![Research](https://img.shields.io/badge/-Research-green) |
-| [2024.03] | **Provincial Innovation Project**: 🎉 Congratulations to our project for receiving funding from [College Student Innovation Project in Hunan Province](http://114.220.75.43:1021/hncxcy), which was awarded "Outstanding Project & Paper" among 4 other accolades. I'm the **leader** of this project. | ![Research](https://img.shields.io/badge/-Research-green) |
+| [2024.05] | **Research Intern**: At [University of Michigan-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/): Exploring MLLMs in Human-Vehicle Dialogue. | ![Research](https://img.shields.io/badge/-Research-006400) |
+| [2024.03] | **Paper Accepted**: 🎉 Congratulations to our Paper "[Multi-strategy Adversarial Learning for Robust Face Forgery Detection under Attacks](https://ieeexplore.ieee.org/abstract/document/10688131)" has accepted to ICME 2024 as Oral Paper (CCF-B Conference). | ![Research](https://img.shields.io/badge/-Research-006400) |
+| [2024.03] | **Provincial Innovation Project**: 🎉 Congratulations to our project for receiving funding from [College Student Innovation Project in Hunan Province](http://114.220.75.43:1021/hncxcy), which was awarded "Outstanding Project & Paper" among 4 other accolades. I'm the **leader** of this project. | ![Research](https://img.shields.io/badge/-Research-006400) |
 | [2022-2024] | **Excellent Student & Cadre**: Honored with Excellent Student and Excellent Student Cadre of [Central South University](https://csu.edu.cn/)(Totally 800+ students in the grades). | ![Academic](https://img.shields.io/badge/-Academic-gold) |
 | [2022.12] | **National Scholarship**: Honored with National Scholarship for the 2021-2022 academic year (Top 1% & Only 1) | ![Academic](https://img.shields.io/badge/-Academic-gold) |
 
