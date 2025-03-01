@@ -134,9 +134,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gnonymous&show_icons=true&count_private=true&hide_border=true&title_color=1d953f&icon_color=4682b4&text_color=1d953f&bg_color=ffffff" alt="Gnonymous' GitHub Stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gnonymous&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=ffffff&stroke=4682b4&ring=1d953f&fire=1d953f&currStreakLabel=1d953f" alt="Gnonymous' GitHub Streak" />
-
   <!-- 活动时间轴 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gnonymous&bg_color=ffffff&color=1d953f&line=4682b4&point=1d953f&area=true&hide_border=true" alt="Gnonymous' Contribution Graph" />
 </div>
