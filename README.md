@@ -3,12 +3,7 @@
   <!-- dynamic typing effect -->
   <div>
     <a href="https://github.com/Gnonymous">
-<<<<<<< HEAD
-      <img src="profile-3d-contrib/background.PNG" width="auto" height="230"/>
-=======
-      <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=60&duration=2500&pause=1000&color=ff9966&center=true&vCenter=true&width=600&height=80&lines=Let's+Brainstorm+Together+🤯!&center=true&size=35" /> -->
         <img src="./profile-3d-contrib/background.png" width="auto" height="230"/>
->>>>>>> origin
     </a>
   </div>
 
