@@ -42,8 +42,9 @@
   <h3>🛠️ Tech Stack & Tools</h3>
   <img src="https://skillicons.dev/icons?i=python,pytorch,docker,linux,vscode,git,github,latex" alt="Tech Stack" />
   <br/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-1D953F?style=for-the-badge" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-4682B4?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-1D953F?style=for-the-badge" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Multi%20Model-yellow?style=for-the-badge" alt="Multi Model" />
+  <img src="https://img.shields.io/badge/CV-4682B4?style=for-the-badge" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge" alt="NLP" />
 </div>
 
@@ -149,11 +150,11 @@
   <a href="mailto:gnonymous.ai@gmail.com">
     <img src="https://img.shields.io/badge/Email-gnonymous.ai%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/GnonymousAI">
-    <img src="https://img.shields.io/badge/Twitter-@GnonymousAI-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
   <a href="https://eohan.me">
-    <img src="https://img.shields.io/badge/Website-eohan.me-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-eohan.me-orange?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  </a>
+  <a href="https://x.com/GnonymousAI">
+    <img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <div>&nbsp;</div>
   <div>
