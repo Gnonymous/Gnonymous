@@ -58,7 +58,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Simple-ChatBot</h3>
+        <h3 align="center"></h3>
         <div align="center">
           <a href="https://github.com/Gnonymous/Simple-ChatBot" target="_blank">
             <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=Simple-ChatBot&theme=buefy&hide_border=true" alt="Simple-ChatBot">
@@ -71,7 +71,7 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Simple-MLLM</h3>
+        <h3 align="center"></h3>
         <div align="center">
           <a href="https://github.com/Gnonymous/Simple-MLLM" target="_blank">
             <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=Simple-MLLM&theme=buefy&hide_border=true" alt="Simple-MLLM">
@@ -86,7 +86,7 @@
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">FaceForensics-Toolkit</h3>
+        <h3 align="center"></h3>
         <div align="center">
           <a href="https://github.com/Gnonymous/FaceForensics-Toolkit" target="_blank">
             <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=FaceForensics-Toolkit&theme=buefy&hide_border=true" alt="FaceForensics-Toolkit">
@@ -118,10 +118,11 @@
 
 | Time | Achievements | Category |
 |------|-------------|----------|
+| [2025.02] | **Provincial Outstanding Graduate**: Honored with Outstanding Graduate of Hunan Province Class of 2025 (Provincial Level, 18 Recipients, Top 3%) | ![Academic](https://img.shields.io/badge/-Academic-gold) |
 | [2024.12] | **National Scholarship**: Honored with National Scholarship for the 2023-2024 academic year (Top 1%) | ![Academic](https://img.shields.io/badge/-Academic-gold) |
 | [2024.12] | **Special Scholarship**: Honored with [Central South University](https://csu.edu.cn/) Special Scholarship for the 2023-2024 academic year (Top 1% & Only 1) | ![Academic](https://img.shields.io/badge/-Academic-gold) |
 | [2024.09] | **Direct Ph.D Admission**: Having been admitted to [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) | ![Admission](https://img.shields.io/badge/-Admission-blue) |
-| [2024.08] | **DeepShield**: 🎉 Congratulations to our project "Deepshield, A Robust Defense Against Deepfake" for winning the **National Second Prize(Top 6-10%)** in the [National College Student Information Security Competition](http://117.78.33.202/announcement/view/364)(Totally 852 teams participated). | ![Competition](https://img.shields.io/badge/-Competition-red) |
+| [2024.08] | **DeepShield**: 🎉 Congratulations to our project "Deepshield, A Robust Defense Against Deepfake" for winning the **National Second Prize(Top 6-10%)** in the [National College Student Information Security Competition](http://117.78.33.202/announcement/view/364)(Totally 852 teams participated). | ![Research](https://img.shields.io/badge/-Research-006400)![Competition](https://img.shields.io/badge/-Competition-red) |
 | [2024.05] | **Research Intern**: At [University of Michigan-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/): Exploring MLLMs in Human-Vehicle Dialogue. | ![Research](https://img.shields.io/badge/-Research-006400) |
 | [2024.03] | **Paper Accepted**: 🎉 Congratulations to our Paper "[Multi-strategy Adversarial Learning for Robust Face Forgery Detection under Attacks](https://ieeexplore.ieee.org/abstract/document/10688131)" has accepted to ICME 2024 as Oral Paper (CCF-B Conference). | ![Research](https://img.shields.io/badge/-Research-006400) |
 | [2024.03] | **Provincial Innovation Project**: 🎉 Congratulations to our project for receiving funding from [College Student Innovation Project in Hunan Province](http://114.220.75.43:1021/hncxcy), which was awarded "Outstanding Project & Paper" among 4 other accolades. I'm the **leader** of this project. | ![Research](https://img.shields.io/badge/-Research-006400) |

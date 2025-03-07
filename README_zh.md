@@ -56,7 +56,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Simple-ChatBot</h3>
+        <h3 align="center"></h3>
         <div align="center">
           <a href="https://github.com/Gnonymous/Simple-ChatBot" target="_blank">
             <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=Simple-ChatBot&theme=buefy&hide_border=true" alt="Simple-ChatBot">
@@ -69,7 +69,7 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Simple-MLLM</h3>
+        <h3 align="center"></h3>
         <div align="center">
           <a href="https://github.com/Gnonymous/Simple-MLLM" target="_blank">
             <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=Simple-MLLM&theme=buefy&hide_border=true" alt="Simple-MLLM">
@@ -84,7 +84,7 @@
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">FaceForensics-Toolkit</h3>
+        <h3 align="center"></h3>
         <div align="center">
           <a href="https://github.com/Gnonymous/FaceForensics-Toolkit" target="_blank">
             <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=FaceForensics-Toolkit&theme=buefy&hide_border=true" alt="FaceForensics-Toolkit">
@@ -116,10 +116,11 @@
 
 | 时间 | 成就 | 类别 |
 |------|-------------|----------|
+| [2025.02] | **省级优秀毕业生**：获得2025级湖南省优秀毕业生（省级，共18人，前3%） | ![学术](https://img.shields.io/badge/-学术-gold) |
 | [2024.12] | **国家奖学金**：获得2023-2024学年国家奖学金（前1%） | ![学术](https://img.shields.io/badge/-学术-gold) |
 | [2024.12] | **特等奖学金**：获得[中南大学](https://csu.edu.cn/)2023-2024学年特等奖学金（前1%且唯一） | ![学术](https://img.shields.io/badge/-学术-gold) |
 | [2024.09] | **直博录取**：被[上海交通大学](https://sjtu.edu.cn/)录取为直博生 | ![录取](https://img.shields.io/badge/-录取-blue) |
-| [2024.08] | **DeepShield**：🎉 我们的项目"Deepshield，一种对抗Deepfake的强健防御"在[全国大学生信息安全竞赛](http://117.78.33.202/announcement/view/364)中获得**国家二等奖（前6-10%）**（共852支队伍参赛）。 | ![比赛](https://img.shields.io/badge/-比赛-red) |
+| [2024.08] | **DeepShield**：🎉 我们的项目"Deepshield，一种对抗Deepfake的强健防御"在[全国大学生信息安全竞赛](http://117.78.33.202/announcement/view/364)中获得**国家二等奖（前6-10%）**（共852支队伍参赛）。 | ![研究](https://img.shields.io/badge/-研究-006400) ![比赛](https://img.shields.io/badge/-比赛-red) |
 | [2024.05] | **研究实习**：在[上海交大密西根学院](https://www.ji.sjtu.edu.cn/)：探索MLLMs在人车对话中的应用。 | ![研究](https://img.shields.io/badge/-研究-006400) |
 | [2024.03] | **论文被录用**：🎉 我们的论文"[Multi-strategy Adversarial Learning for Robust Face Forgery Detection under Attacks](https://ieeexplore.ieee.org/abstract/document/10688131)"被ICME 2024录用为口头报告论文（CCF-B类会议）。 | ![研究](https://img.shields.io/badge/-研究-006400) |
 | [2024.03] | **省级创新项目**：🎉 我们的项目获得[湖南省大学生创新项目](http://114.220.75.43:1021/hncxcy)资助，并获评"优秀项目及论文"等4项荣誉。我是该项目的**负责人**。 | ![研究](https://img.shields.io/badge/-研究-006400) |
