@@ -58,7 +58,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center"></h3>
+        <h3 align="center">Simple-ChatBot</h3>
         <div align="center">
           <a href="https://github.com/Gnonymous/Simple-ChatBot" target="_blank">
             <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=Simple-ChatBot&theme=buefy&hide_border=true" alt="Simple-ChatBot">
@@ -71,7 +71,7 @@
         </div>
       </td>
       <td width="50%">
-        <h3 align="center"></h3>
+        <h3 align="center">Simple-MLLM</h3>
         <div align="center">
           <a href="https://github.com/Gnonymous/Simple-MLLM" target="_blank">
             <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=Simple-MLLM&theme=buefy&hide_border=true" alt="Simple-MLLM">
@@ -86,7 +86,7 @@
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center"></h3>
+        <h3 align="center">FaceForensics-Toolkit</h3>
         <div align="center">
           <a href="https://github.com/Gnonymous/FaceForensics-Toolkit" target="_blank">
             <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=FaceForensics-Toolkit&theme=buefy&hide_border=true" alt="FaceForensics-Toolkit">
