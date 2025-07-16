@@ -3,7 +3,7 @@
   <!-- dynamic typing effect -->
   <div>
     <a href="https://github.com/Gnonymous">
-        <img src="./profile-3d-contrib/background.png" width="auto" height="230"/>
+        <img src=".profile-3d-contrib/output.png" width="auto" height="230"/>
     </a>
   </div>
 
