@@ -1,10 +1,7 @@
 <div align="center">
-  
-  <!-- dynamic typing effect -->
-  <div>
-    <a href="https://github.com/Gnonymous">
-        <img src="profile-3d-contrib/output.png" width="auto" height="230"/>
-    </a>
+  <div align="center">
+    <!-- 动态头部横幅 -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20~%20I'm Eohan%20,%20Welcome%20to%20My%20GitHub&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Research%20•%20Innovation%20•%20Open%20Source&descAlignY=55&descSize=16"/>
   </div>
 
   <div>&nbsp;</div>
@@ -24,9 +21,7 @@
   <b>English</b> | <a href="README_zh.md">简体中文</a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🧙‍♂️ About Me
 
@@ -37,72 +32,31 @@
 - 📢 Seeking like-minded partners for Open Source or Academic Research Collaboration. Contact: [gnonymous.ai@gmail.com](mailto:gnonymous.ai@gmail.com).
 - 🪁 Hobbies: Discussions, Community contributions, Singing.
 
-<!-- 技术栈可视化 -->
-<div align="center">
-  <h3>🛠️ Tech Stack & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,linux,vscode,git,github,latex" alt="Tech Stack" />
-  <br/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-1D953F?style=for-the-badge" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Multi%20Model-yellow?style=for-the-badge" alt="Multi Model" />
-  <img src="https://img.shields.io/badge/CV-4682B4?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge" alt="NLP" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🗂️ Featured Projects
-
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Simple-ChatBot</h3>
-        <div align="center">
-          <a href="https://github.com/Gnonymous/Simple-ChatBot" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=Simple-ChatBot&theme=buefy&hide_border=true" alt="Simple-ChatBot">
-          </a>
-          <p><strong>An Intelligent Voice Interactive Robot based on Python (using API)</strong></p>
-          <p>
-            <img src="https://img.shields.io/github/stars/Gnonymous/Simple-ChatBot?style=social" alt="Stars">
-            <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" alt="Python">
-          </p>
-        </div>
+          <a href="https://github.com/Gnonymous/Web-CogReasoner" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=Web-CogReasoner" alt="Web-CogReasoner">
       </td>
       <td width="50%">
-        <h3 align="center">Simple-MLLM</h3>
-        <div align="center">
-          <a href="https://github.com/Gnonymous/Simple-MLLM" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=Simple-MLLM&theme=buefy&hide_border=true" alt="Simple-MLLM">
-          </a>
-          <p><strong>A lightweight locally deployed Multimodal Large Model (MLLM) practice</strong></p>
-          <p>
-            <img src="https://img.shields.io/github/stars/Gnonymous/Simple-MLLM?style=social" alt="Stars">
-            <img src="https://img.shields.io/badge/PyTorch-orange?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
-          </p>
-        </div>
+          <a href="https://github.com/Gnonymous/Simple-ChatBot" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=Simple-Chatbot" alt="Simple-ChatBot">
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">FaceForensics-Toolkit</h3>
-        <div align="center">
-          <a href="https://github.com/Gnonymous/FaceForensics-Toolkit" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=FaceForensics-Toolkit&theme=buefy&hide_border=true" alt="FaceForensics-Toolkit">
-          </a>
-          <p><strong>An enhanced toolkit processing original FaceForensics++ dataset</strong></p>
-          <p>
-            <img src="https://img.shields.io/github/stars/Gnonymous/FaceForensics-Toolkit?style=social" alt="Stars">
-            <img src="https://img.shields.io/badge/Computer%20Vision-green?style=flat&logo=opencv&logoColor=white" alt="Computer Vision">
-          </p>
-        </div>
+          <a href="https://github.com/Gnonymous/Simple-MLLM" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gnonymous&repo=Simple-MLLM" alt="Simple-MLLM">
       </td>
       <td width="50%">
         <div align="center">
           <h3 align="center">More Projects</h3>
           <a href="https://github.com/Gnonymous?tab=repositories" target="_blank">
-            <img src="https://custom-icon-badges.demolab.com/badge/-Check%20All%20Repositories-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+            <img src="https://custom-icon-badges.demolab.com/badge/-Check%20All%20Repositories-dfe6e9?style=for-the-badge&logoColor=blue&logo=repo"/>
           </a>
         </div>
       </td>
@@ -110,9 +64,7 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🏆 Honors & Experiences
 
@@ -129,9 +81,7 @@
 | [2022-2024] | **Excellent Student & Cadre**: Honored with Excellent Student and Excellent Student Cadre of [Central South University](https://csu.edu.cn/)(Totally 800+ students in the grades). | ![Academic](https://img.shields.io/badge/-Academic-gold) |
 | [2022.12] | **National Scholarship**: Honored with National Scholarship for the 2021-2022 academic year (Top 1% & Only 1) | ![Academic](https://img.shields.io/badge/-Academic-gold) |
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📊 GitHub Stats
 
