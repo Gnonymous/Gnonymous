@@ -1,10 +1,9 @@
 <div align="center">
   <div align="center">
     <!-- 动态头部横幅 -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20~%20I'm Eohan%20,%20Welcome%20to%20My%20GitHub&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Research%20•%20Innovation%20•%20Open%20Source&descAlignY=55&descSize=16"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20~%20I'm Eohan%20,%20Welcome%20to%20My%20GitHub&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Research%20•%20Innovation%20•%20Open%20Source&descAlignY=55&descSize=16"/>
   </div>
-
-  <div>&nbsp;</div>
+  <!-- <div>&nbsp;</div> -->
   
   <!-- profile logo badges -->
   <div align="center">
@@ -21,7 +20,7 @@
   <b>English</b> | <a href="README_zh.md">简体中文</a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ### 🧙‍♂️ About Me
 
@@ -32,7 +31,7 @@
 - 📢 Seeking like-minded partners for Open Source or Academic Research Collaboration. Contact: [gnonymous.ai@gmail.com](mailto:gnonymous.ai@gmail.com).
 - 🪁 Hobbies: Discussions, Community contributions, Singing.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ### 🗂️ Featured Projects
 <div align="center">
@@ -64,7 +63,7 @@
   </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ### 🏆 Honors & Experiences
 
@@ -81,7 +80,7 @@
 | [2022-2024] | **Excellent Student & Cadre**: Honored with Excellent Student and Excellent Student Cadre of [Central South University](https://csu.edu.cn/)(Totally 800+ students in the grades). | ![Academic](https://img.shields.io/badge/-Academic-gold) |
 | [2022.12] | **National Scholarship**: Honored with National Scholarship for the 2021-2022 academic year (Top 1% & Only 1) | ![Academic](https://img.shields.io/badge/-Academic-gold) |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 ### 📊 GitHub Stats
 
