@@ -1,9 +1,8 @@
-<!-- 动态头部横幅 -->
-<p align="center" style="font-size: 2em; font-style: italic; font-weight: bold; margin-top: 1em;">
-  Hi~I'm Eohan, Welcome!
-</p>
-  <div>&nbsp;</div>
 <div align="center">
+  <a href="https://github.com/Gnonymous">
+      <img src="profile-3d-contrib/output.png" width="auto" height="230"/>
+  </a>
+  <div>&nbsp;</div>
   <!-- profile logo badges -->
   <div align="center">
     <a href="https://eohan.me/" target="_blank"><img src="https://img.shields.io/badge/Website-eohan.me-orange?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>&emsp;
