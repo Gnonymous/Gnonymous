@@ -1,5 +1,5 @@
 <!-- 动态头部横幅 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20~%20I'm Eohan%20,%20Welcome%20to%20My%20GitHub&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Research%20•%20Innovation%20•%20Open%20Source&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20~%20I'm Eohan%20,%20Welcome%20to%20My%20GitHub&fontSize=30&fontColor=ffffff&fontAlignY=30&desc=Research%20•%20Innovation%20•%20Open%20Source&descAlignY=55&descSize=16"/>
   <!-- <div>&nbsp;</div> -->
 <div align="center">
   <!-- profile logo badges -->
