@@ -24,8 +24,8 @@
 
 > Visit my [Personal Website](https://eohan.me/) for more about my work and research.
 
-- 👋 Hi, I'm a senior undergrad from [Central South University](http://www.csu.edu.cn/), having been admitted to [Shanghai Jiao Tong University](https://sjtu.edu.cn/) for a direct Ph.D program.
-- 💭 My research interests: AI Agents (recent focus), Multimodal Large Language Models(MLLMs), Embodied Intelligence, and Deepfake Detection (Previous Works).
+- 👋 Hi, I’m Eohan, a first-year Ph.D candidate at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), prior to that I earn my bachelor’s degree at [Central South University](https://www.csu.edu.cn/)
+- 💭 My research interests: Embodied Intelligence (recent focus), AI Agents, Multimodal Large Language Models(MLLMs), and Deepfake Detection (Previous Works).
 - 📢 Seeking like-minded partners for Open Source or Academic Research Collaboration. Contact: [gnonymous.ai@gmail.com](mailto:gnonymous.ai@gmail.com).
 - 🪁 Hobbies: Discussions, Community contributions, Singing.
 
