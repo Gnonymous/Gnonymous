@@ -4,3 +4,12 @@ demo_zh.md
 .DS_Store
 tools.py
 output.jpg
+AGENTS.md
+scripts/waka-readme-stats/repo/
+scripts/waka-readme-stats/__pycache__/
+scripts/waka-readme-stats/assets/*.png
+
+# Ignore untracked legacy or asset folders
+assets/
+old_version/
+profile-3d-contrib/
