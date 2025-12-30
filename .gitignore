@@ -13,3 +13,6 @@ scripts/waka-readme-stats/assets/*.png
 assets/
 old_version/
 profile-3d-contrib/
+
+# Test folder for WakaTime API experiments
+test/
