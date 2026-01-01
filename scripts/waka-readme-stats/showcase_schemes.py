@@ -179,21 +179,11 @@ def scheme_app_category_with_goals(summaries_data: Dict, goals_data: Dict, timez
         
         lines.append("")
         lines.append("🎯 Goals:")
-        lines.append(f"   {'Day':<14}" + " ".join(f"{d:<3}" for d in day_labels) + " | Status")
+        lines.append(f"   {'Day':<14}" + " ".join(f"{d:<3}" for d in day_labels) + " | Progressing")
         
         for goal in goals[:3]:
-            title = goal.get("title") or goal.get("custom_title") or "Goal"
-            title_lower = title.lower()
-            if "code" in title_lower:
-                title = "Coding"
-            elif "learn" in title_lower:
-                title = "Learning"
-            elif "read" in title_lower:
-                title = "Reading"
-            elif "write" in title_lower:
-                title = "Writing"
-            elif len(title) > 14:
-                title = title[:12] + ".."
+            # 固定使用 Status 作为标题
+            title = "Status"
             
             status = goal.get("status", "unknown")
             chart = goal.get("chart_data", [])
