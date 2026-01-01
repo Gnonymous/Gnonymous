@@ -205,7 +205,7 @@ def scheme_app_category_with_goals(summaries_data: Dict, goals_data: Dict, timez
                 
                 bar = make_progress_bar(min(100, total_percent))
                 status_emoji = "✅" if status == "success" else "⏳" if status == "pending" else "❌"
-                lines.append(f"   {title:<14}" + " ".join(daily_status) + f" | {bar}   {total_percent:5.1f}% {status_emoji}")
+                lines.append(f"   {title:<14}" + " ".join(daily_status) + f" | {bar}   {total_percent:5.2f} % {status_emoji}")
             else:
                 daily_status = ["░░░"] * 7
                 lines.append(f"   {title:<14}" + " ".join(daily_status) + f" | {status}")
