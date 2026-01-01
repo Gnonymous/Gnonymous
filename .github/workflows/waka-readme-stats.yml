@@ -1,9 +1,6 @@
 name: Waka Readme
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     # Runs every 5 hours starting from 00:00 UTC
     - cron: '0 */5 * * *'
@@ -13,8 +10,6 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    # 只有当提交者不是 readme-bot 时才运行，防止循环触发
-    if: github.actor != 'readme-bot' && !contains(github.event.head_commit.message, '[skip ci]')
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
