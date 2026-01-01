@@ -121,10 +121,17 @@ async def init_download_manager(user_login: str):
 
     :param user_login: GitHub user login.
     """
+    from datetime import datetime, timedelta
+    today = datetime.now().strftime("%Y-%m-%d")
+    start_7 = (datetime.now() - timedelta(days=6)).strftime("%Y-%m-%d")
+    
     await DownloadManager.load_remote_resources(
         linguist="https://cdn.jsdelivr.net/gh/github/linguist@master/lib/linguist/languages.yml",
         waka_latest=f"https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key={EM.WAKATIME_API_KEY}",
         waka_all=f"https://wakatime.com/api/v1/users/current/all_time_since_today?api_key={EM.WAKATIME_API_KEY}",
+        waka_summaries=f"https://wakatime.com/api/v1/users/current/summaries?start={start_7}&end={today}&api_key={EM.WAKATIME_API_KEY}",
+        waka_goals=f"https://wakatime.com/api/v1/users/current/goals?api_key={EM.WAKATIME_API_KEY}",
+        waka_leaders=f"https://wakatime.com/api/v1/leaders?api_key={EM.WAKATIME_API_KEY}",
         github_stats=f"https://github-contributions.vercel.app/api/v1/{user_login}",
     )
 

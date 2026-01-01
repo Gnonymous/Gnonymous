@@ -16,6 +16,10 @@ from manager_debug import init_debug_manager, DebugManager as DBM
 from graphics_chart_drawer import create_loc_graph, GRAPH_PATH
 from yearly_commit_calculator import calculate_commit_data
 from graphics_list_formatter import make_list, make_commit_day_time_list, make_language_per_repo_list
+from showcase_schemes import (
+    scheme_time_period, scheme_app_category_with_goals, scheme_activity_categories,
+    scheme_projects, scheme_languages, scheme_best_day, scheme_global_rank
+)
 
 
 async def get_waka_time_stats(repositories: Dict, commit_dates: Dict) -> str:
@@ -196,6 +200,43 @@ async def get_stats() -> str:
     if EM.SHOW_LOC_CHART:
         await create_loc_graph(yearly_data, GRAPH_PATH)
         stats += f"**{FM.t('Timeline')}**\n\n{GHM.update_chart('Lines of Code', GRAPH_PATH)}"
+
+    # Showcase schemes
+    if EM.SHOW_TIME_PERIOD or EM.SHOW_APP_CATEGORY or EM.SHOW_ACTIVITY_CATEGORIES or EM.SHOW_PROJECTS_TIMELINE or EM.SHOW_LANGUAGES_CHART or EM.SHOW_BEST_DAY or EM.SHOW_GLOBAL_RANK:
+        DBM.i("Adding showcase schemes...")
+        waka_stats = await DM.get_remote_json("waka_latest")
+        waka_summaries = await DM.get_remote_json("waka_summaries")
+        waka_goals = await DM.get_remote_json("waka_goals")
+        waka_leaders = await DM.get_remote_json("waka_leaders")
+        timezone = waka_stats["data"]["timezone"] if waka_stats and "data" in waka_stats else "UTC"
+        
+        if EM.SHOW_TIME_PERIOD:
+            DBM.i("Adding time period stats...")
+            stats += scheme_time_period(waka_summaries, timezone)
+        
+        if EM.SHOW_APP_CATEGORY:
+            DBM.i("Adding app category stats...")
+            stats += scheme_app_category_with_goals(waka_summaries, waka_goals, timezone)
+        
+        if EM.SHOW_ACTIVITY_CATEGORIES:
+            DBM.i("Adding activity categories...")
+            stats += scheme_activity_categories(waka_stats)
+        
+        if EM.SHOW_PROJECTS_TIMELINE:
+            DBM.i("Adding projects timeline...")
+            stats += scheme_projects(waka_summaries)
+        
+        if EM.SHOW_LANGUAGES_CHART:
+            DBM.i("Adding languages chart...")
+            stats += scheme_languages(waka_stats)
+        
+        if EM.SHOW_BEST_DAY:
+            DBM.i("Adding best day record...")
+            stats += scheme_best_day(waka_stats)
+        
+        if EM.SHOW_GLOBAL_RANK:
+            DBM.i("Adding global rank...")
+            stats += scheme_global_rank(waka_leaders)
 
     if EM.SHOW_UPDATED_DATE:
         DBM.i("Adding last updated time...")

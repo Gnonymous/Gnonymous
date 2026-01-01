@@ -35,6 +35,15 @@ class EnvironmentManager:
     SHOW_UPDATED_DATE = getenv("INPUT_SHOW_UPDATED_DATE", "True").lower() in _TRUTHY
     SHOW_TOTAL_CODE_TIME = getenv("INPUT_SHOW_TOTAL_CODE_TIME", "True").lower() in _TRUTHY
 
+    # Showcase schemes
+    SHOW_TIME_PERIOD = getenv("INPUT_SHOW_TIME_PERIOD", "False").lower() in _TRUTHY
+    SHOW_APP_CATEGORY = getenv("INPUT_SHOW_APP_CATEGORY", "False").lower() in _TRUTHY
+    SHOW_ACTIVITY_CATEGORIES = getenv("INPUT_SHOW_ACTIVITY_CATEGORIES", "False").lower() in _TRUTHY
+    SHOW_PROJECTS_TIMELINE = getenv("INPUT_SHOW_PROJECTS_TIMELINE", "False").lower() in _TRUTHY
+    SHOW_LANGUAGES_CHART = getenv("INPUT_SHOW_LANGUAGES_CHART", "False").lower() in _TRUTHY
+    SHOW_BEST_DAY = getenv("INPUT_SHOW_BEST_DAY", "False").lower() in _TRUTHY
+    SHOW_GLOBAL_RANK = getenv("INPUT_SHOW_GLOBAL_RANK", "False").lower() in _TRUTHY
+
     COMMIT_BY_ME = getenv("INPUT_COMMIT_BY_ME", "False").lower() in _TRUTHY
     COMMIT_MESSAGE = getenv("INPUT_COMMIT_MESSAGE", "Updated with Dev Metrics")
     COMMIT_USERNAME = getenv("INPUT_COMMIT_USERNAME", "")

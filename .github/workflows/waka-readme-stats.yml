@@ -1,6 +1,9 @@
 name: Waka Readme
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Runs daily at 00:00 UTC (adjust if needed)
     - cron: '0 0 * * *'
@@ -34,9 +37,9 @@ jobs:
           INPUT_LOCALE: "en"
           INPUT_SHOW_OS: "False"
           INPUT_SHOW_PROJECTS: "False"
-          INPUT_SHOW_EDITORS: "True"
-          INPUT_SHOW_TIMEZONE: "True"
-          INPUT_SHOW_COMMIT: "True"
+          INPUT_SHOW_EDITORS: "False"
+          INPUT_SHOW_TIMEZONE: "False"
+          INPUT_SHOW_COMMIT: "False"
           INPUT_SHOW_LANGUAGE: "False"
           INPUT_SHOW_LINES_OF_CODE: "False"
           INPUT_SHOW_LANGUAGE_PER_REPO: "False"
@@ -53,5 +56,13 @@ jobs:
           INPUT_COMMIT_SINGLE: "False"
           INPUT_IGNORED_REPOS: "browser-use"
           INPUT_SYMBOL_VERSION: "1"
+          
+          # Showcase schemes
+          INPUT_SHOW_TIME_PERIOD: "True"
+          INPUT_SHOW_APP_CATEGORY: "True"
+          INPUT_SHOW_ACTIVITY_CATEGORIES: "False"
+          INPUT_SHOW_PROJECTS_TIMELINE: "False"
+          INPUT_SHOW_LANGUAGES_CHART: "False"
+          INPUT_SHOW_BEST_DAY: "False"
+          INPUT_SHOW_GLOBAL_RANK: "False"
           INPUT_DEBUG_LOGGING: "0"
-
