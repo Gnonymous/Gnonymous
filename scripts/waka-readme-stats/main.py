@@ -20,6 +20,7 @@ from showcase_schemes import (
     scheme_time_period, scheme_app_category_with_goals, scheme_activity_categories,
     scheme_projects, scheme_languages, scheme_best_day, scheme_global_rank
 )
+from svg_dashboard_generator import generate_and_save_dashboard, SVG_DASHBOARD_PATH
 
 
 async def get_waka_time_stats(repositories: Dict, commit_dates: Dict) -> str:
@@ -237,6 +238,16 @@ async def get_stats() -> str:
         if EM.SHOW_GLOBAL_RANK:
             DBM.i("Adding global rank...")
             stats += scheme_global_rank(waka_leaders)
+
+    # SVG Dashboard 生成
+    if EM.SHOW_SVG_DASHBOARD:
+        DBM.i("Generating SVG Dashboard...")
+        try:
+            await generate_and_save_dashboard(GHM.USER.login, EM.GH_TOKEN)
+            stats += f"\n{GHM.update_chart('GitHub Dashboard', SVG_DASHBOARD_PATH)}\n"
+            DBM.g("SVG Dashboard added!")
+        except Exception as e:
+            DBM.p(f"SVG Dashboard generation failed: {e}")
 
     if EM.SHOW_UPDATED_DATE:
         DBM.i("Adding last updated time...")

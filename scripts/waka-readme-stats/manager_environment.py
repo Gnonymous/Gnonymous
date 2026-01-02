@@ -43,6 +43,7 @@ class EnvironmentManager:
     SHOW_LANGUAGES_CHART = getenv("INPUT_SHOW_LANGUAGES_CHART", "False").lower() in _TRUTHY
     SHOW_BEST_DAY = getenv("INPUT_SHOW_BEST_DAY", "False").lower() in _TRUTHY
     SHOW_GLOBAL_RANK = getenv("INPUT_SHOW_GLOBAL_RANK", "False").lower() in _TRUTHY
+    SHOW_SVG_DASHBOARD = getenv("INPUT_SHOW_SVG_DASHBOARD", "False").lower() in _TRUTHY
 
     COMMIT_BY_ME = getenv("INPUT_COMMIT_BY_ME", "False").lower() in _TRUTHY
     COMMIT_MESSAGE = getenv("INPUT_COMMIT_MESSAGE", "Updated with Dev Metrics")
