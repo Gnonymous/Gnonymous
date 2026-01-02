@@ -63,4 +63,4 @@ jobs:
           INPUT_SHOW_BEST_DAY: "False"
           INPUT_SHOW_GLOBAL_RANK: "False"
           INPUT_SHOW_SVG_DASHBOARD: "True"
-          INPUT_DEBUG_LOGGING: "0"
+          INPUT_DEBUG_LOGGING: "1"
