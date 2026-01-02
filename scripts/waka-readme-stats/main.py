@@ -24,18 +24,32 @@ from showcase_schemes import (
 from svg_dashboard_generator import generate_and_save_dashboard, SVG_DASHBOARD_PATH
 
 
-async def fetch_7day_durations() -> List[Dict]:
+async def fetch_7day_durations(timezone_str: str = "UTC") -> List[Dict]:
     """
     获取过去 7 天的 WakaTime durations 数据
     用于精确计算时段分布
     
+    :param timezone_str: 用户时区字符串 (如 "Asia/Shanghai")
     :returns: 合并后的所有 durations 数据列表
     """
     DBM.i("Fetching 7-day durations data for time period stats...")
+    
+    # 使用用户时区计算当前日期
+    try:
+        from zoneinfo import ZoneInfo
+        from datetime import timezone as dt_timezone
+        tz = ZoneInfo(timezone_str) if timezone_str else None
+        if tz:
+            now = datetime.now(dt_timezone.utc).astimezone(tz)
+        else:
+            now = datetime.now()
+    except Exception:
+        now = datetime.now()
+    
     all_durations = []
     async with AsyncClient(timeout=30.0) as client:
         for i in range(7):
-            date = (datetime.now() - timedelta(days=i)).strftime("%Y-%m-%d")
+            date = (now - timedelta(days=i)).strftime("%Y-%m-%d")
             url = f"https://wakatime.com/api/v1/users/current/durations?date={date}&api_key={EM.WAKATIME_API_KEY}"
             try:
                 resp = await client.get(url)
@@ -240,7 +254,7 @@ async def get_stats() -> str:
         if EM.SHOW_TIME_PERIOD:
             DBM.i("Adding time period stats...")
             # 获取过去 7 天的 durations 数据以实现真实的时段分布统计
-            durations_data = await fetch_7day_durations()
+            durations_data = await fetch_7day_durations(timezone)
             stats += scheme_time_period(waka_summaries, durations_data, timezone)
         
         if EM.SHOW_APP_CATEGORY:
