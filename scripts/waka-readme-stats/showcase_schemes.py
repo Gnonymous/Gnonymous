@@ -221,44 +221,75 @@ def scheme_app_category_with_goals(summaries_data: Dict, goals_data: Dict, timez
     if goals_data and "data" in goals_data and goals_data["data"]:
         goals = goals_data["data"]
         
-        today = datetime.now()
-        day_labels = []
-        for i in range(6, -1, -1):
-            d = today - timedelta(days=i)
-            day_labels.append(d.strftime("%a"))
+        # 使用用户时区计算当前日期
+        try:
+            from zoneinfo import ZoneInfo
+            from datetime import timezone as dt_timezone
+            tz = ZoneInfo(timezone) if timezone else None
+            if tz:
+                today = datetime.now(dt_timezone.utc).astimezone(tz)
+            else:
+                today = datetime.now()
+        except Exception:
+            today = datetime.now()
+        
+        # 计算本周一的日期（weekday(): Monday=0, Sunday=6）
+        days_since_monday = today.weekday()
+        monday = today - timedelta(days=days_since_monday)
+        
+        # 固定显示 Mon Tue Wed Thu Fri Sat Sun
+        day_labels = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+        
+        # 计算本周每一天的日期字符串（用于匹配 chart_data）
+        week_dates = []
+        for i in range(7):
+            d = monday + timedelta(days=i)
+            week_dates.append(d.strftime("%Y-%m-%d"))
+        
+        # 今天是本周的第几天（0=周一, 6=周日）
+        today_index = days_since_monday
+        today_date_str = today.strftime("%Y-%m-%d")
         
         lines.append("")
         lines.append("🎯 Goals:")
         lines.append(f"   {'Day':<14}" + " ".join(f"{d:<3}" for d in day_labels) + " | Progressing")
         
         for goal in goals[:3]:
-            # 固定使用 Status 作为标题
             title = "Status"
-            
             status = goal.get("status", "unknown")
             chart = goal.get("chart_data", [])
             
-            daily_status = []
-            total_percent = 0
+            # 构建日期到数据的映射
+            chart_by_date = {}
+            for day_data in chart:
+                date_str = day_data.get("range", {}).get("date", "") or day_data.get("date", "")
+                if date_str:
+                    chart_by_date[date_str] = day_data
             
-            if chart:
-                recent_chart = chart[-7:] if len(chart) >= 7 else chart
-                for day_data in recent_chart:
+            daily_status = []
+            today_percent = 0
+            
+            for i, date_str in enumerate(week_dates):
+                if i > today_index:
+                    # 未到的天数显示为空（未来）
+                    daily_status.append("░░░")
+                elif date_str in chart_by_date:
+                    day_data = chart_by_date[date_str]
                     actual = day_data.get("actual_seconds", 0) or 0
                     target = day_data.get("goal_seconds", 1) or 1
                     percent = actual / target * 100 if target > 0 else 0
                     daily_status.append("███" if percent >= 100 else "▒▒▒" if percent >= 50 else "░░░")
-                    total_percent = percent
-                
-                while len(daily_status) < 7:
-                    daily_status.insert(0, "░░░")
-                
-                bar = make_progress_bar(min(100, total_percent))
-                status_emoji = "✅" if status == "success" else "⏳" if status == "pending" else "❌"
-                lines.append(f"   {title:<14}" + " ".join(daily_status) + f" | {bar}   {total_percent:5.2f} % {status_emoji}")
-            else:
-                daily_status = ["░░░"] * 7
-                lines.append(f"   {title:<14}" + " ".join(daily_status) + f" | {status}")
+                    
+                    # 如果是今天，记录当天进度
+                    if date_str == today_date_str:
+                        today_percent = percent
+                else:
+                    # 本周已过但没有数据
+                    daily_status.append("░░░")
+            
+            bar = make_progress_bar(min(100, today_percent))
+            status_emoji = "✅" if today_percent >= 100 else "⏳" if today_percent >= 50 else "❌"
+            lines.append(f"   {title:<14}" + " ".join(daily_status) + f" | {bar}   {today_percent:5.2f} % {status_emoji}")
     
     lines.append("```")
     return "\n".join(lines) + "\n\n"
