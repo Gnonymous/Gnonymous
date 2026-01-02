@@ -10,7 +10,6 @@ scripts/waka-readme-stats/__pycache__/
 scripts/waka-readme-stats/assets/*.png
 
 # Ignore untracked legacy or asset folders
-assets/
 old_version/
 profile-3d-contrib/
 

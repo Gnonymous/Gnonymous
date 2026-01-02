@@ -2,11 +2,12 @@
 Readme Development Metrics With waka time progress
 """
 from asyncio import run
-from datetime import datetime
-from typing import Dict
+from datetime import datetime, timedelta
+from typing import Dict, List
 from urllib.parse import quote
 
 from humanize import intword, naturalsize, intcomma
+from httpx import AsyncClient
 
 from manager_download import init_download_manager, DownloadManager as DM
 from manager_environment import EnvironmentManager as EM
@@ -21,6 +22,31 @@ from showcase_schemes import (
     scheme_projects, scheme_languages, scheme_best_day, scheme_global_rank
 )
 from svg_dashboard_generator import generate_and_save_dashboard, SVG_DASHBOARD_PATH
+
+
+async def fetch_7day_durations() -> List[Dict]:
+    """
+    获取过去 7 天的 WakaTime durations 数据
+    用于精确计算时段分布
+    
+    :returns: 合并后的所有 durations 数据列表
+    """
+    DBM.i("Fetching 7-day durations data for time period stats...")
+    all_durations = []
+    async with AsyncClient(timeout=30.0) as client:
+        for i in range(7):
+            date = (datetime.now() - timedelta(days=i)).strftime("%Y-%m-%d")
+            url = f"https://wakatime.com/api/v1/users/current/durations?date={date}&api_key={EM.WAKATIME_API_KEY}"
+            try:
+                resp = await client.get(url)
+                if resp.status_code == 200:
+                    data = resp.json()
+                    if "data" in data and data["data"]:
+                        all_durations.extend(data["data"])
+            except Exception as e:
+                DBM.w(f"Failed to fetch durations for {date}: {e}")
+    DBM.g(f"Fetched {len(all_durations)} duration records.")
+    return all_durations
 
 
 async def get_waka_time_stats(repositories: Dict, commit_dates: Dict) -> str:
@@ -213,7 +239,9 @@ async def get_stats() -> str:
         
         if EM.SHOW_TIME_PERIOD:
             DBM.i("Adding time period stats...")
-            stats += scheme_time_period(waka_summaries, timezone)
+            # 获取过去 7 天的 durations 数据以实现真实的时段分布统计
+            durations_data = await fetch_7day_durations()
+            stats += scheme_time_period(waka_summaries, durations_data, timezone)
         
         if EM.SHOW_APP_CATEGORY:
             DBM.i("Adding app category stats...")

@@ -72,30 +72,80 @@ def format_time(seconds: float) -> str:
         return f"{hours} hrs {mins} mins" if mins > 0 else f"{hours} hrs"
 
 
-def scheme_time_period(summaries_data: Dict, timezone: str) -> str:
-    """时段分布 (Last 7 Days)"""
-    if not summaries_data or "data" not in summaries_data:
+def scheme_time_period(summaries_data: Dict, durations_data: List[Dict], timezone_str: str) -> str:
+    """
+    时段分布 (Last 7 Days)
+    基于 WakaTime durations API 精确计算每个时段的工作时间
+    
+    :param summaries_data: WakaTime summaries API 响应
+    :param durations_data: 所有 7 天的 durations 数据合并列表
+    :param timezone_str: 用户时区字符串 (如 "Asia/Shanghai")
+    """
+    if not durations_data:
         return ""
     
+    # 尝试解析时区
+    try:
+        from zoneinfo import ZoneInfo
+        tz = ZoneInfo(timezone_str) if timezone_str else None
+    except Exception:
+        tz = None
+    
+    from datetime import datetime, timedelta, timezone as dt_timezone
+    
+    # 时段定义 (参考 generate_showcase.py 的 bucket_circadian)
     periods = {
-        "Morning": {"emoji": "🌞", "seconds": 0},
-        "Daytime": {"emoji": "🌆", "seconds": 0},
-        "Evening": {"emoji": "🌃", "seconds": 0},
-        "Night": {"emoji": "🌙", "seconds": 0},
+        "Morning": {"emoji": "🌞", "seconds": 0.0, "range": (6, 12)},   # 06:00-12:00
+        "Daytime": {"emoji": "🌆", "seconds": 0.0, "range": (12, 18)}, # 12:00-18:00
+        "Evening": {"emoji": "🌃", "seconds": 0.0, "range": (18, 24)}, # 18:00-24:00
+        "Night": {"emoji": "🌙", "seconds": 0.0, "range": (0, 6)},     # 00:00-06:00
     }
     
-    for day in summaries_data["data"]:
-        grand_total = day.get("grand_total", {}).get("total_seconds", 0)
-        # 简单按比例分配
-        periods["Morning"]["seconds"] += grand_total * 0.2
-        periods["Daytime"]["seconds"] += grand_total * 0.4
-        periods["Evening"]["seconds"] += grand_total * 0.3
-        periods["Night"]["seconds"] += grand_total * 0.1
+    def to_local(ts: float):
+        """将 Unix 时间戳转换为本地时间"""
+        dt = datetime.fromtimestamp(ts, tz=dt_timezone.utc)
+        if tz:
+            return dt.astimezone(tz)
+        return dt
+    
+    def get_period_for_hour(hour: int) -> str:
+        """根据小时获取对应的时段"""
+        if 0 <= hour < 6:
+            return "Night"
+        elif 6 <= hour < 12:
+            return "Morning"
+        elif 12 <= hour < 18:
+            return "Daytime"
+        else:
+            return "Evening"
+    
+    # 遍历所有 durations，按小时精确分配到各时段
+    for d in durations_data:
+        start_ts = float(d.get("time", 0))
+        dur = float(d.get("duration", 0))
+        if dur <= 0:
+            continue
+        
+        start = to_local(start_ts)
+        end = to_local(start_ts + dur)
+        current = start
+        
+        # 按小时边界切分并分配
+        while current < end:
+            next_hour = (current.replace(minute=0, second=0, microsecond=0) + timedelta(hours=1))
+            segment_end = min(end, next_hour)
+            seconds = (segment_end - current).total_seconds()
+            
+            period_name = get_period_for_hour(current.hour)
+            periods[period_name]["seconds"] += seconds
+            
+            current = segment_end
     
     total = sum(p["seconds"] for p in periods.values())
     if total == 0:
         return ""
     
+    # 确定主要工作时段
     max_period = max(periods.items(), key=lambda x: x[1]["seconds"])
     titles = {
         "Morning": "**I'm an Early 🐤**",
