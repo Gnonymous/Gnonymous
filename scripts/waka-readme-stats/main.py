@@ -250,6 +250,7 @@ async def get_stats() -> str:
         waka_goals = await DM.get_remote_json("waka_goals")
         waka_leaders = await DM.get_remote_json("waka_leaders")
         timezone = waka_stats["data"]["timezone"] if waka_stats and "data" in waka_stats else "UTC"
+        DBM.i(f"User timezone from WakaTime: {timezone}")
         
         if EM.SHOW_TIME_PERIOD:
             DBM.i("Adding time period stats...")
