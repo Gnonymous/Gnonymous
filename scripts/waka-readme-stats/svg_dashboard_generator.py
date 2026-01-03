@@ -5,7 +5,12 @@ GitHub Stats Dashboard - SVG Generator
 """
 
 import os
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timedelta, timezone as dt_timezone
+try:
+    from zoneinfo import ZoneInfo
+except ImportError:
+    from backports.zoneinfo import ZoneInfo
+
 from httpx import AsyncClient
 from manager_debug import DebugManager as DBM
 
@@ -98,20 +103,50 @@ class GitHubGraphQLClient:
         await self.client.aclose()
 
 
-async def fetch_dashboard_data(username: str, token: str) -> dict:
+async def fetch_dashboard_data(username: str, token: str, timezone_str: str = "UTC") -> dict:
     """
     从 GitHub GraphQL API 获取 Dashboard 数据
     
     :param username: GitHub 用户名
     :param token: GitHub Token
+    :param timezone_str: 用户时区 (e.g. "Asia/Shanghai")
     :returns: Dashboard 数据字典
     """
     client = GitHubGraphQLClient(token)
-    now = datetime.now(timezone.utc)
-    to_date = now.strftime("%Y-%m-%dT%H:%M:%SZ")
-    from_date = (now - timedelta(days=30)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    
+    # 1. 确定当前时间 (基准)
+    try:
+        user_tz = ZoneInfo(timezone_str)
+    except Exception as e:
+        DBM.w(f"Invalid timezone '{timezone_str}', falling back to UTC. Error: {e}")
+        user_tz = dt_timezone.utc
+
+    # GitHub API 需要 UTC 时间范围
+    # 为了防止时区差异导致漏掉最近几小时的数据，我们将 API 查询范围设宽一点 (结束时间设为 UTC Now)
+    utc_now = datetime.now(dt_timezone.utc)
+    to_date = utc_now.strftime("%Y-%m-%dT%H:%M:%SZ")
+    
+    # 30天前 (多查一天 buffer，确保覆盖本地时区的"30天前")
+    from_date = (utc_now - timedelta(days=32)).strftime("%Y-%m-%dT%H:%M:%SZ") 
+    
     prev_to = from_date
-    prev_from = (now - timedelta(days=60)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    prev_from = (utc_now - timedelta(days=64)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    
+    # 生成本地时区的"过去30天"日期列表 (含今天)
+    local_now = utc_now.astimezone(user_tz)
+    date_list = [(local_now - timedelta(days=i)).strftime("%Y-%m-%d") for i in range(29, -1, -1)]
+    today_str = date_list[-1]
+    
+    # 辅助函数: 将 UTC ISO 时间转为 本地日期字符串
+    def to_local_date_str(iso_str):
+        if not iso_str: return ""
+        # GitHub 返回格式通常为 "2023-01-01T12:00:00Z"
+        # 简单处理 Z
+        if iso_str.endswith('Z'):
+            dt = datetime.fromisoformat(iso_str[:-1]).replace(tzinfo=dt_timezone.utc)
+        else:
+            dt = datetime.fromisoformat(iso_str)
+        return dt.astimezone(user_tz).strftime("%Y-%m-%d")
     
     try:
         curr = await client.query(QUERY_USER_STATS, {"user": username, "from": from_date, "to": to_date})
@@ -122,6 +157,11 @@ async def fetch_dashboard_data(username: str, token: str) -> dict:
         prev_contrib = prev["user"]["contributionsCollection"]
         
         # 解析日历 (总贡献)
+        # 注意: contributionCalendar 是按用户 GitHub 设置的时区聚合的，或者是 UTC
+        # 但我们主要用它的 totalContributions 做 KPI。weeks 数据如果用的话，也最好对齐。
+        # 这里为了简单，日历热力图我们依赖 API 返回的 weeks 结构，不做深度时区重算(因为 API 已聚合)
+        # 但为了柱状图准确，后面的 issue/pr/commit nodes 我们会手动重算。
+        
         all_days = []
         for week in contrib["contributionCalendar"]["weeks"]:
             for day in week["contributionDays"]:
@@ -129,23 +169,21 @@ async def fetch_dashboard_data(username: str, token: str) -> dict:
         recent = sorted(all_days, key=lambda x: x["date"], reverse=True)[:30]
         daily = [d["count"] for d in reversed(recent)]
         
-        # 生成过去30天的日期列表
-        date_list = [(now - timedelta(days=i)).strftime("%Y-%m-%d") for i in range(29, -1, -1)]
         
-        # 解析 Issue 每日数据
+        # 解析 Issue 每日数据 (使用本地时区重算)
         issue_by_date = {d: 0 for d in date_list}
         for node in contrib.get("issueContributions", {}).get("nodes", []):
-            date_str = node["occurredAt"][:10]
-            if date_str in issue_by_date:
-                issue_by_date[date_str] += 1
+            local_date = to_local_date_str(node["occurredAt"])
+            if local_date in issue_by_date:
+                issue_by_date[local_date] += 1
         issue_daily = [issue_by_date[d] for d in date_list]
         
         # 解析 PR 每日数据
         pr_by_date = {d: 0 for d in date_list}
         for node in contrib.get("pullRequestContributions", {}).get("nodes", []):
-            date_str = node["occurredAt"][:10]
-            if date_str in pr_by_date:
-                pr_by_date[date_str] += 1
+            local_date = to_local_date_str(node["occurredAt"])
+            if local_date in pr_by_date:
+                pr_by_date[local_date] += 1
         pr_daily = [pr_by_date[d] for d in date_list]
         
         # 解析 Commit 每日数据 & Top Repos (按 Commit 数排序)
@@ -164,16 +202,16 @@ async def fetch_dashboard_data(username: str, token: str) -> dict:
             total_repo_commits = 0
             
             for node in repo.get("contributions", {}).get("nodes", []):
-                date_str = node["occurredAt"][:10]
+                local_date = to_local_date_str(node["occurredAt"])
                 count = node.get("commitCount", 1)
                 
                 # 更新总表
-                if date_str in commit_by_date:
-                    commit_by_date[date_str] += count
+                if local_date in commit_by_date:
+                    commit_by_date[local_date] += count
                 
                 # 更新分仓库表
-                if date_str in repo_daily:
-                    repo_daily[date_str] += count
+                if local_date in repo_daily:
+                    repo_daily[local_date] += count
                     total_repo_commits += count
             
             if total_repo_commits > 0:
@@ -489,20 +527,21 @@ def generate_dashboard_svg(data: dict) -> str:
 SVG_DASHBOARD_PATH = "assets/github_dashboard.svg"
 
 
-async def generate_and_save_dashboard(username: str, token: str) -> str:
+async def generate_and_save_dashboard(username: str, token: str, timezone_str: str = "UTC") -> str:
     """
     生成并保存 SVG Dashboard
     
     :param username: GitHub 用户名
     :param token: GitHub Token
+    :param timezone_str: 用户时区
     :returns: SVG 文件相对路径
     """
     DBM.i("🚀 开始生成 SVG Dashboard...")
-    DBM.i(f"👤 目标用户: {username}")
+    DBM.i(f"👤 目标用户: {username} | 🌏 时区: {timezone_str}")
     
     try:
         DBM.i("📡 正在获取 GitHub 数据...")
-        data = await fetch_dashboard_data(username, token)
+        data = await fetch_dashboard_data(username, token, timezone_str)
         DBM.g("✅ GitHub 数据获取成功!")
     except Exception as e:
         DBM.p(f"❌ SVG Dashboard 数据获取失败: {e}")

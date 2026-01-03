@@ -242,15 +242,17 @@ async def get_stats() -> str:
         await create_loc_graph(yearly_data, GRAPH_PATH)
         stats += f"**{FM.t('Timeline')}**\n\n{GHM.update_chart('Lines of Code', GRAPH_PATH)}"
 
+    # 获取 WakaTime 数据以提取时区 (供所有图表使用)
+    waka_stats = await DM.get_remote_json("waka_latest")
+    timezone = waka_stats["data"]["timezone"] if waka_stats and "data" in waka_stats else "UTC"
+    DBM.i(f"User timezone from WakaTime: {timezone}")
+
     # Showcase schemes
     if EM.SHOW_TIME_PERIOD or EM.SHOW_APP_CATEGORY or EM.SHOW_ACTIVITY_CATEGORIES or EM.SHOW_PROJECTS_TIMELINE or EM.SHOW_LANGUAGES_CHART or EM.SHOW_BEST_DAY or EM.SHOW_GLOBAL_RANK:
         DBM.i("Adding showcase schemes...")
-        waka_stats = await DM.get_remote_json("waka_latest")
         waka_summaries = await DM.get_remote_json("waka_summaries")
         waka_goals = await DM.get_remote_json("waka_goals")
         waka_leaders = await DM.get_remote_json("waka_leaders")
-        timezone = waka_stats["data"]["timezone"] if waka_stats and "data" in waka_stats else "UTC"
-        DBM.i(f"User timezone from WakaTime: {timezone}")
         
         if EM.SHOW_TIME_PERIOD:
             DBM.i("Adding time period stats...")
@@ -286,7 +288,7 @@ async def get_stats() -> str:
     if EM.SHOW_SVG_DASHBOARD:
         DBM.i("Generating SVG Dashboard...")
         try:
-            await generate_and_save_dashboard(GHM.USER.login, EM.GH_TOKEN)
+            await generate_and_save_dashboard(GHM.USER.login, EM.GH_TOKEN, timezone)
             stats += f"\n{GHM.update_chart('GitHub Dashboard', SVG_DASHBOARD_PATH)}\n"
             DBM.g("SVG Dashboard added!")
         except Exception as e:
