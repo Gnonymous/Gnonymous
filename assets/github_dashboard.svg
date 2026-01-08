@@ -22,12 +22,12 @@
         </g>
         <text x="38" y="29" class="sans small bold" fill="rgba(236, 72, 153, 1)" stroke-width="0.5">80 Contributions in the Last 30 Days</text>
         
-        <rect x="533.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="542.5" y="20" width="8" height="8" rx="1.5" opacity="0.25" fill="rgba(236, 72, 153, 1)" />
-<rect x="551.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="560.5" y="20" width="8" height="8" rx="1.5" opacity="0.29" fill="rgba(236, 72, 153, 1)" />
-<rect x="569.5" y="20" width="8" height="8" rx="1.5" opacity="1.00" fill="rgba(236, 72, 153, 1)" />
-<rect x="578.5" y="20" width="8" height="8" rx="1.5" opacity="0.62" fill="rgba(236, 72, 153, 1)" />
+        <rect x="533.5" y="20" width="8" height="8" rx="1.5" opacity="0.25" fill="rgba(236, 72, 153, 1)" />
+<rect x="542.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
+<rect x="551.5" y="20" width="8" height="8" rx="1.5" opacity="0.29" fill="rgba(236, 72, 153, 1)" />
+<rect x="560.5" y="20" width="8" height="8" rx="1.5" opacity="1.00" fill="rgba(236, 72, 153, 1)" />
+<rect x="569.5" y="20" width="8" height="8" rx="1.5" opacity="0.62" fill="rgba(236, 72, 153, 1)" />
+<rect x="578.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="587.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="596.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="605.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
@@ -38,16 +38,16 @@
 <rect x="650.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="659.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="668.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="677.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="686.5" y="20" width="8" height="8" rx="1.5" opacity="0.39" fill="rgba(236, 72, 153, 1)" />
-<rect x="695.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="704.5" y="20" width="8" height="8" rx="1.5" opacity="0.81" fill="rgba(236, 72, 153, 1)" />
-<rect x="713.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="722.5" y="20" width="8" height="8" rx="1.5" opacity="0.62" fill="rgba(236, 72, 153, 1)" />
+<rect x="677.5" y="20" width="8" height="8" rx="1.5" opacity="0.39" fill="rgba(236, 72, 153, 1)" />
+<rect x="686.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
+<rect x="695.5" y="20" width="8" height="8" rx="1.5" opacity="0.81" fill="rgba(236, 72, 153, 1)" />
+<rect x="704.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
+<rect x="713.5" y="20" width="8" height="8" rx="1.5" opacity="0.62" fill="rgba(236, 72, 153, 1)" />
+<rect x="722.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="731.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="740.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="749.5" y="20" width="8" height="8" rx="1.5" opacity="0.53" fill="rgba(236, 72, 153, 1)" />
-<rect x="758.5" y="20" width="8" height="8" rx="1.5" opacity="0.95" fill="rgba(236, 72, 153, 1)" />
+<rect x="740.5" y="20" width="8" height="8" rx="1.5" opacity="0.53" fill="rgba(236, 72, 153, 1)" />
+<rect x="749.5" y="20" width="8" height="8" rx="1.5" opacity="0.95" fill="rgba(236, 72, 153, 1)" />
+<rect x="758.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="767.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="776.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="785.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
