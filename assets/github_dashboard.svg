@@ -224,20 +224,20 @@
         </g>
         <text x="34" y="33" class="sans small bold" fill="#BA473E">Commits</text>
         
-        <rect x="1.0" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
-<rect x="9.755" y="82.5" width="7.7" height="37" rx="1" fill="#ff7a35" />
-<rect x="18.51" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
-<rect x="27.265" y="91.5" width="7.7" height="28" rx="1" fill="#ff7a35" />
+        <rect x="1.0" y="82.5" width="7.7" height="37" rx="1" fill="#ff7a35" />
+<rect x="9.755" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
+<rect x="18.51" y="91.5" width="7.7" height="28" rx="1" fill="#ff7a35" />
+<rect x="27.265" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
 <rect x="36.02" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
-<rect x="44.775000000000006" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
-<rect x="53.53" y="101.5" width="7.7" height="18" rx="1" fill="#ff7a35" />
-<rect x="62.285000000000004" y="69.5" width="7.7" height="50" rx="1" fill="#ff7a35" />
+<rect x="44.775000000000006" y="101.5" width="7.7" height="18" rx="1" fill="#ff7a35" />
+<rect x="53.53" y="69.5" width="7.7" height="50" rx="1" fill="#ff7a35" />
+<rect x="62.285000000000004" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
 <rect x="71.04" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
 <rect x="79.795" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
 <rect x="88.55000000000001" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
 <rect x="97.305" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
-<rect x="106.06" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
-<rect x="114.81500000000001" y="110.5" width="7.7" height="9" rx="1" fill="#ff7a35" />
+<rect x="106.06" y="110.5" width="7.7" height="9" rx="1" fill="#ff7a35" />
+<rect x="114.81500000000001" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
 <rect x="123.57000000000001" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
 <rect x="132.32500000000002" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
 <rect x="141.08" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
@@ -252,8 +252,8 @@
 <rect x="219.87500000000003" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
 <rect x="228.63000000000002" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
 <rect x="237.38500000000002" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
-<rect x="246.14000000000001" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
-<rect x="254.895" y="116.5" width="7.7" height="3" rx="1" fill="#ff7a35" />
+<rect x="246.14000000000001" y="116.5" width="7.7" height="3" rx="1" fill="#ff7a35" />
+<rect x="254.895" y="119.5" width="7.7" height="0" rx="1" fill="#ff7a35" />
 
     </g>
 
@@ -281,12 +281,12 @@
 <text x="0" y="19" class="mono bold smaller" fill="#487B41">Gnonymous    </text>
 <rect x="0" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="0" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
-<rect x="6" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
-<rect x="6" y="34" width="5" height="5" opacity="0.80" fill="#487B41" />
+<rect x="6" y="28" width="5" height="5" opacity="0.80" fill="#487B41" />
+<rect x="6" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="12" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
-<rect x="12" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
-<rect x="18" y="28" width="5" height="5" opacity="0.90" fill="#487B41" />
-<rect x="18" y="34" width="5" height="5" opacity="1.00" fill="#487B41" />
+<rect x="12" y="34" width="5" height="5" opacity="0.90" fill="#487B41" />
+<rect x="18" y="28" width="5" height="5" opacity="1.00" fill="#487B41" />
+<rect x="18" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="24" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="24" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="30" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
@@ -318,8 +318,8 @@
 <rect x="6" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="12" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="12" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
-<rect x="18" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
-<rect x="18" y="34" width="5" height="5" opacity="1.00" fill="#487B41" />
+<rect x="18" y="28" width="5" height="5" opacity="1.00" fill="#487B41" />
+<rect x="18" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="24" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="24" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="30" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
@@ -340,13 +340,13 @@
 <rect x="72" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="78" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="78" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
-<rect x="84" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
-<rect x="84" y="34" width="5" height="5" opacity="0.38" fill="#487B41" />
+<rect x="84" y="28" width="5" height="5" opacity="0.38" fill="#487B41" />
+<rect x="84" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 </g>
 <g transform="translate(450, 0)">
 <text x="0" y="19" class="mono bold smaller" fill="#487B41">SJTURunning  </text>
-<rect x="0" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
-<rect x="0" y="34" width="5" height="5" opacity="1.00" fill="#487B41" />
+<rect x="0" y="28" width="5" height="5" opacity="1.00" fill="#487B41" />
+<rect x="0" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="6" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="6" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="12" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
@@ -378,10 +378,10 @@
 </g>
 <g transform="translate(580, 0)">
 <text x="0" y="19" class="mono bold smaller" fill="#487B41">Private Repo </text>
-<rect x="0" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
-<rect x="0" y="34" width="5" height="5" opacity="0.65" fill="#487B41" />
-<rect x="6" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
-<rect x="6" y="34" width="5" height="5" opacity="1.00" fill="#487B41" />
+<rect x="0" y="28" width="5" height="5" opacity="0.65" fill="#487B41" />
+<rect x="0" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
+<rect x="6" y="28" width="5" height="5" opacity="1.00" fill="#487B41" />
+<rect x="6" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="12" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="12" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="18" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
@@ -423,8 +423,8 @@
 <rect x="24" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="30" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="30" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
-<rect x="36" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
-<rect x="36" y="34" width="5" height="5" opacity="1.00" fill="#487B41" />
+<rect x="36" y="28" width="5" height="5" opacity="1.00" fill="#487B41" />
+<rect x="36" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="42" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="42" y="34" width="5" height="5" opacity="0.10" fill="#487B41" />
 <rect x="48" y="28" width="5" height="5" opacity="0.10" fill="#487B41" />
