@@ -32,25 +32,25 @@
 <rect x="596.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="605.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="614.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="623.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="632.5" y="20" width="8" height="8" rx="1.5" opacity="0.40" fill="rgba(236, 72, 153, 1)" />
-<rect x="641.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="650.5" y="20" width="8" height="8" rx="1.5" opacity="0.60" fill="rgba(236, 72, 153, 1)" />
-<rect x="659.5" y="20" width="8" height="8" rx="1.5" opacity="0.40" fill="rgba(236, 72, 153, 1)" />
+<rect x="623.5" y="20" width="8" height="8" rx="1.5" opacity="0.40" fill="rgba(236, 72, 153, 1)" />
+<rect x="632.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
+<rect x="641.5" y="20" width="8" height="8" rx="1.5" opacity="0.60" fill="rgba(236, 72, 153, 1)" />
+<rect x="650.5" y="20" width="8" height="8" rx="1.5" opacity="0.40" fill="rgba(236, 72, 153, 1)" />
+<rect x="659.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="668.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="677.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="686.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="695.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="704.5" y="20" width="8" height="8" rx="1.5" opacity="1.00" fill="rgba(236, 72, 153, 1)" />
+<rect x="695.5" y="20" width="8" height="8" rx="1.5" opacity="1.00" fill="rgba(236, 72, 153, 1)" />
+<rect x="704.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="713.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="722.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="731.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="740.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="749.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="758.5" y="20" width="8" height="8" rx="1.5" opacity="0.60" fill="rgba(236, 72, 153, 1)" />
+<rect x="749.5" y="20" width="8" height="8" rx="1.5" opacity="0.60" fill="rgba(236, 72, 153, 1)" />
+<rect x="758.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="767.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="776.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="785.5" y="20" width="8" height="8" rx="1.5" opacity="1.00" fill="rgba(236, 72, 153, 1)" />
+<rect x="776.5" y="20" width="8" height="8" rx="1.5" opacity="1.00" fill="rgba(236, 72, 153, 1)" />
+<rect x="785.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="794.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 
     </g>
@@ -77,12 +77,12 @@
         <rect x="0.5" y="0.5" width="264" height="70" rx="4.5" stroke="rgba(255,255,255,0.3)" />
         
         <text x="10" y="24" class="sans small bold" fill="#7B58C9">1 Pull Requests Created</text>
-        <text x="10" y="56" text-anchor="start" class="mono smaller bold" fill="#777">+0 (0.0%)</text>
-        <text x="254" y="56" text-anchor="end" class="mono smaller bold" fill="#777">past month</text>
+        <text x="10" y="56" text-anchor="start" class="mono smaller bold" fill="#777">+1 (0%)</text>
+        <text x="254" y="56" text-anchor="end" class="mono smaller bold" fill="#459631">past month</text>
         
         <g transform="translate(170, 46)">
-            <svg width="10" height="12" viewBox="0 0 10 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect x="0" y="5" width="10" height="2" rx="1" fill="#777" />
+            <svg width="9" height="11" viewBox="0 0 9 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M7.96107 4.28933L7.96102 4.28929L4.83602 1.16433L4.83598 1.16423C4.74692 1.07533 4.62619 1.02533 4.50031 1.02533C4.37444 1.02533 4.25371 1.07533 4.16465 1.16423L4.1646 1.16433L1.04078 4.28811C0.994735 4.33135 0.957786 4.38333 0.932076 4.44103C0.906116 4.4993 0.892156 4.5622 0.891026 4.62597C0.889906 4.68975 0.901636 4.7531 0.925526 4.81225C0.949416 4.8714 0.984975 4.92512 1.03008 4.97023C1.07519 5.01533 1.12892 5.05089 1.18806 5.07478C1.24721 5.09867 1.31056 5.11041 1.37434 5.10928C1.43812 5.10816 1.50102 5.0942 1.55928 5.06823C1.61698 5.04253 1.66896 5.00557 1.7122 4.95954L4.02531 2.64642L4.02531 9.625C4.02531 9.75098 4.07536 9.8718 4.16444 9.96088C4.25352 10.05 4.37434 10.1 4.50031 10.1C4.62629 10.1 4.74711 10.05 4.83619 9.96088C4.92527 9.8718 4.97531 9.75098 4.97531 9.625L4.97531 2.64642L7.2896 4.96071L7.28965 4.96075C7.37871 5.04971 7.49944 5.09967 7.62531 5.09967C7.75119 5.09967 7.87192 5.04971 7.96098 4.96075L7.89031 4.89L7.96107 4.96067C8.05002 4.8716 8.09998 4.75087 8.09998 4.625C8.09998 4.49912 8.05002 4.3784 7.96107 4.28933Z" fill="#459631" stroke="#459631" stroke-width="0.5"/>
             </svg>
         </g>
     </g>
