@@ -3,10 +3,10 @@
 **I'm an Evening 🦉**
 
 ```text
-🌞 Morning              5 hrs 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.69 %
-🌆 Daytime              8 hrs 47 mins        █████░░░░░░░░░░░░░░░░░░░░   23.87 %
-🌃 Evening              14 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   38.87 %
-🌙 Night                7 hrs 56 mins        █████░░░░░░░░░░░░░░░░░░░░   21.57 %
+🌞 Morning              7 hrs 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.19 %
+🌆 Daytime              9 hrs 52 mins        ██████░░░░░░░░░░░░░░░░░░░   25.12 %
+🌃 Evening              14 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.46 %
+🌙 Night                7 hrs 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 %
 ```
 
 **Mostly Browsing 🌐**
@@ -15,18 +15,22 @@
 🕐 Time Zone: Asia/Shanghai
 
 🔥 Activities:
-   Browser                18 hrs 22 mins       ████████████░░░░░░░░░░░░░   49.85 %
-   Entertainment          9 hrs 26 mins        ██████░░░░░░░░░░░░░░░░░░░   25.62 %
-   Communication          3 hrs                ██░░░░░░░░░░░░░░░░░░░░░░░    8.18 %
-   Notes/Docs             2 hrs 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    6.09 %
-   Coding                 2 hrs 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    5.76 %
-   Other                  1 hrs 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.50 %
+   Browser                19 hrs 38 mins       ████████████░░░░░░░░░░░░░   49.98 %
+   Entertainment          10 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.70 %
+   Communication          3 hrs 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░    8.98 %
+   Notes/Docs             2 hrs 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    5.72 %
+   Coding                 2 hrs 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    5.40 %
+   Other                  1 hrs 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.22 %
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ███ ███ ███ ░░░ ░░░ ░░░ ░░░ | ███████░░░░░░░░░░░░░░░░░░   31.48 % ❌
+   Status        ███ ███ ███ ▒▒▒ ░░░ ░░░ ░░░ | ███████████████████████░░   92.38 % ⏳
 ```
 
 
- Last Updated on 12/03/2026 01:54:49 UTC
+![GitHub Dashboard chart](https://raw.githubusercontent.com/Gnonymous/Gnonymous/main/assets/github_dashboard.svg)
+
+
+
+ Last Updated on 12/03/2026 05:49:25 UTC
 <!--END_SECTION:waka-->
