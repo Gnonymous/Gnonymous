@@ -26,23 +26,23 @@
 <rect x="542.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="551.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="560.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="569.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="578.5" y="20" width="8" height="8" rx="1.5" opacity="0.21" fill="rgba(236, 72, 153, 1)" />
-<rect x="587.5" y="20" width="8" height="8" rx="1.5" opacity="1.00" fill="rgba(236, 72, 153, 1)" />
-<rect x="596.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
+<rect x="569.5" y="20" width="8" height="8" rx="1.5" opacity="0.21" fill="rgba(236, 72, 153, 1)" />
+<rect x="578.5" y="20" width="8" height="8" rx="1.5" opacity="1.00" fill="rgba(236, 72, 153, 1)" />
+<rect x="587.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
+<rect x="596.5" y="20" width="8" height="8" rx="1.5" opacity="0.24" fill="rgba(236, 72, 153, 1)" />
 <rect x="605.5" y="20" width="8" height="8" rx="1.5" opacity="0.24" fill="rgba(236, 72, 153, 1)" />
-<rect x="614.5" y="20" width="8" height="8" rx="1.5" opacity="0.24" fill="rgba(236, 72, 153, 1)" />
+<rect x="614.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="623.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="632.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="641.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="650.5" y="20" width="8" height="8" rx="1.5" opacity="0.21" fill="rgba(236, 72, 153, 1)" />
+<rect x="641.5" y="20" width="8" height="8" rx="1.5" opacity="0.21" fill="rgba(236, 72, 153, 1)" />
+<rect x="650.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="659.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="668.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="677.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="686.5" y="20" width="8" height="8" rx="1.5" opacity="0.22" fill="rgba(236, 72, 153, 1)" />
-<rect x="695.5" y="20" width="8" height="8" rx="1.5" opacity="0.25" fill="rgba(236, 72, 153, 1)" />
-<rect x="704.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
-<rect x="713.5" y="20" width="8" height="8" rx="1.5" opacity="0.21" fill="rgba(236, 72, 153, 1)" />
+<rect x="677.5" y="20" width="8" height="8" rx="1.5" opacity="0.22" fill="rgba(236, 72, 153, 1)" />
+<rect x="686.5" y="20" width="8" height="8" rx="1.5" opacity="0.25" fill="rgba(236, 72, 153, 1)" />
+<rect x="695.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
+<rect x="704.5" y="20" width="8" height="8" rx="1.5" opacity="0.21" fill="rgba(236, 72, 153, 1)" />
+<rect x="713.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="722.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="731.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
 <rect x="740.5" y="20" width="8" height="8" rx="1.5" opacity="0.20" fill="rgba(236, 72, 153, 1)" />
@@ -61,7 +61,7 @@
         <rect x="0.5" y="0.5" width="264" height="70" rx="4.5" stroke="rgba(255,255,255,0.3)" />
         
         <text x="10" y="24" class="sans small bold" fill="#406CC4">2 Issues Created</text>
-        <text x="10" y="56" text-anchor="start" class="mono smaller bold" fill="#777">-1.00 (-33.33%)</text>
+        <text x="10" y="56" text-anchor="start" class="mono smaller bold" fill="#777">-2.00 (-50.00%)</text>
         <text x="254" y="56" text-anchor="end" class="mono smaller bold" fill="#CF3E3E">past month</text>
         
         <g transform="translate(170, 46)">
@@ -77,12 +77,12 @@
         <rect x="0.5" y="0.5" width="264" height="70" rx="4.5" stroke="rgba(255,255,255,0.3)" />
         
         <text x="10" y="24" class="sans small bold" fill="#7B58C9">1 Pull Requests Created</text>
-        <text x="10" y="56" text-anchor="start" class="mono smaller bold" fill="#777">+0 (0.0%)</text>
-        <text x="254" y="56" text-anchor="end" class="mono smaller bold" fill="#777">past month</text>
+        <text x="10" y="56" text-anchor="start" class="mono smaller bold" fill="#777">-1 (-50.0%)</text>
+        <text x="254" y="56" text-anchor="end" class="mono smaller bold" fill="#CF3E3E">past month</text>
         
         <g transform="translate(170, 46)">
-            <svg width="10" height="12" viewBox="0 0 10 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect x="0" y="5" width="10" height="2" rx="1" fill="#777" />
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M2.02989 7.836L2.02994 7.83604L5.15494 10.961L5.15498 10.9611C5.24404 11.05 5.36477 11.1 5.49065 11.1C5.61652 11.1 5.73725 11.05 5.82631 10.9611L5.82636 10.961L8.95018 7.83722C8.99622 7.79398 9.03317 7.742 9.05888 7.6843C9.08484 7.62603 9.0988 7.56313 9.09993 7.49936C9.10105 7.43558 9.08932 7.37223 9.06543 7.31308C9.04154 7.25393 9.00598 7.20021 8.96088 7.1551C8.91577 7.11 8.86204 7.07444 8.8029 7.05055C8.74375 7.02666 8.6804 7.01492 8.61662 7.01605C8.55284 7.01717 8.48994 7.03113 8.43168 7.0571C8.37398 7.0828 8.322 7.11976 8.27876 7.16579L5.96565 9.47891L5.96565 2.50033C5.96565 2.37435 5.9156 2.25353 5.82652 2.16445C5.73744 2.07537 5.61662 2.02533 5.49065 2.02533C5.36467 2.02533 5.24385 2.07537 5.15477 2.16445C5.06569 2.25353 5.01565 2.37435 5.01565 2.50033L5.01565 9.47891L2.70136 7.16462L2.70131 7.16458C2.61225 7.07562 2.49152 7.02566 2.36565 7.02566C2.23977 7.02566 2.11904 7.07562 2.02998 7.16458L2.10065 7.23533L2.02989 7.16466C1.94094 7.25373 1.89098 7.37446 1.89098 7.50033C1.89098 7.62621 1.94094 7.74693 2.02989 7.836Z" fill="#CF3E3E" stroke="#CF3E3E" stroke-width="0.5"/>
             </svg>
         </g>
     </g>
@@ -93,7 +93,7 @@
         <rect x="0.5" y="0.5" width="264" height="70" rx="4.5" stroke="rgba(255,255,255,0.3)" />
         
         <text x="10" y="24" class="sans small bold" fill="#BA473E">82 Commits Created</text>
-        <text x="10" y="56" text-anchor="start" class="mono smaller bold" fill="#777">72 (720.0%)</text>
+        <text x="10" y="56" text-anchor="start" class="mono smaller bold" fill="#777">68 (485.7%)</text>
         <text x="254" y="56" text-anchor="end" class="mono smaller bold" fill="#459631">past month</text>
         
         <g transform="translate(170, 46)">
