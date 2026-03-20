@@ -3,10 +3,10 @@
 **I'm a Daytime ☀️**
 
 ```text
-🌞 Morning              6 hrs 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 %
-🌆 Daytime              17 hrs 1 mins        █████████░░░░░░░░░░░░░░░░   38.39 %
-🌃 Evening              14 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.15 %
-🌙 Night                6 hrs 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.62 %
+🌞 Morning              5 hrs 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.27 %
+🌆 Daytime              14 hrs 1 mins        █████████░░░░░░░░░░░░░░░░   37.92 %
+🌃 Evening              12 hrs               ████████░░░░░░░░░░░░░░░░░   32.46 %
+🌙 Night                5 hrs 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.35 %
 ```
 
 **Mostly Relaxing 🎮**
@@ -15,16 +15,15 @@
 🕐 Time Zone: Asia/Shanghai
 
 🔥 Activities:
-   Entertainment          20 hrs 37 mins       ███████████░░░░░░░░░░░░░░   46.51 %
-   Browser                12 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.66 %
-   Coding                 6 hrs 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.37 %
-   Communication          3 hrs 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    7.87 %
-   Other                  40 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    1.52 %
-   Notes/Docs             1 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░    0.07 %
+   Entertainment          17 hrs 52 mins       ████████████░░░░░░░░░░░░░   48.33 %
+   Browser                9 hrs 47 mins        ██████░░░░░░░░░░░░░░░░░░░   26.49 %
+   Coding                 6 hrs 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.80 %
+   Communication          2 hrs 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    6.59 %
+   Other                  39 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    1.79 %
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ▒▒▒ ███ ███ ███ ███ ░░░ ░░░ | █████████████████████████   123.30 % ✅
+   Status        ▒▒▒ ███ ███ ███ ███ ░░░ ░░░ | ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % ❌
 ```
 
 
@@ -32,5 +31,5 @@
 
 
 
- Last Updated on 20/03/2026 15:40:25 UTC
+ Last Updated on 20/03/2026 20:29:21 UTC
 <!--END_SECTION:waka-->
