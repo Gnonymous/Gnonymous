@@ -93,7 +93,7 @@
         <rect x="0.5" y="0.5" width="264" height="70" rx="4.5" stroke="rgba(255,255,255,0.3)" />
         
         <text x="10" y="24" class="sans small bold" fill="#BA473E">5 Commits Created</text>
-        <text x="10" y="56" text-anchor="start" class="mono smaller bold" fill="#777">-114 (-95.8%)</text>
+        <text x="10" y="56" text-anchor="start" class="mono smaller bold" fill="#777">-131 (-96.3%)</text>
         <text x="254" y="56" text-anchor="end" class="mono smaller bold" fill="#CF3E3E">past month</text>
         
         <g transform="translate(170, 46)">
