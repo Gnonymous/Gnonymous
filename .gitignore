@@ -15,4 +15,5 @@ profile-3d-contrib/
 
 # Test folder for WakaTime API experiments
 test/
-docs/
+docs/*
+!docs/wakatime_app_runtime_log.md

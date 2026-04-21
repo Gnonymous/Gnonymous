@@ -5,6 +5,7 @@ from random import choice
 from re import sub
 from shutil import copy, rmtree
 from string import ascii_letters
+from pathlib import Path
 
 from git import Repo, Actor
 from github import Github, AuthenticatedUser, Repository
@@ -93,9 +94,20 @@ class GitHubManager:
 
         :param src_path: Source file path.
         """
-        dst_path = join(GitHubManager.REPO.working_tree_dir, src_path)
+        GitHubManager.copy_file_to_repo(src_path, src_path)
+
+    @staticmethod
+    def copy_file_to_repo(src_path: str, repo_path: str):
+        """
+        Copies a local file into the cloned repository and stages it.
+
+        :param src_path: Source file path, absolute or relative to current working directory.
+        :param repo_path: Destination path relative to repository root.
+        """
+        src = Path(src_path)
+        dst_path = join(GitHubManager.REPO.working_tree_dir, repo_path)
         makedirs(dirname(dst_path), exist_ok=True)
-        copy(src_path, dst_path)
+        copy(src, dst_path)
         GitHubManager.REPO.git.add(dst_path)
 
     @staticmethod

@@ -2,8 +2,9 @@
 WakaTime Showcase 方案生成器
 整合到 waka-readme-stats 部署脚本
 """
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone as dt_timezone
 from collections import defaultdict
+from pathlib import Path
 from typing import Dict, List, Tuple, Optional, Any
 
 
@@ -11,10 +12,12 @@ from typing import Dict, List, Tuple, Optional, Any
 BAR_FILLED = "█"
 BAR_EMPTY = "░"
 BAR_LENGTH = 25
+APP_RUNTIME_LOG_REPO_PATH = "docs/wakatime_app_runtime_log.md"
+APP_RUNTIME_LOG_PATH = Path(__file__).resolve().parents[2] / APP_RUNTIME_LOG_REPO_PATH
 
 # Editor 分类映射
 CATEGORY_EMOJI = {
-    "Coding": "💻", "AI Assistant": "🤖", "Notes/Docs": "📝",
+    "Coding": "💻", "Notes/Docs": "📝",
     "Communication": "💬", "Entertainment": "🎮", "Browser": "🌐", "Other": "🧩",
 }
 
@@ -24,6 +27,50 @@ def classify_editor(name: str) -> str:
     raw = name or "Unknown"
     lowered = raw.lower()
 
+    exact_map = {
+        # Coding / terminals
+        "antigravity": "Coding",
+        "ghostty": "Coding",
+        "terminal": "Coding",
+        "apple terminal": "Coding",
+        "orca": "Coding",
+        "workbuddy": "Coding",
+        # Browser-like AI/web apps stay in Browser to keep the public categories compact.
+        "chrome": "Browser",
+        "google chrome": "Browser",
+        "chatgptatlas": "Browser",
+        "chatgpt atlas": "Browser",
+        "atlas": "Browser",
+        # Notes and document tools
+        "zotero": "Notes/Docs",
+        "obsidian": "Notes/Docs",
+        "notion": "Notes/Docs",
+        "miaoyan": "Notes/Docs",
+        "妙言": "Notes/Docs",
+        "notes": "Notes/Docs",
+        "apple notes": "Notes/Docs",
+        "wpsoffice": "Notes/Docs",
+        "wps office": "Notes/Docs",
+        # Communication
+        "wechat": "Communication",
+        "微信": "Communication",
+        "weixin": "Communication",
+        "microsoftoutlook": "Communication",
+        "microsoft outlook": "Communication",
+        "outlook": "Communication",
+        "zoom": "Communication",
+        "zoom.us": "Communication",
+        # Entertainment
+        "music": "Entertainment",
+        "apple music": "Entertainment",
+        "抖音": "Entertainment",
+        "douyin": "Entertainment",
+        "tiktok": "Entertainment",
+    }
+    exact_category = exact_map.get(lowered)
+    if exact_category:
+        return exact_category
+
     def has_any(words: list) -> bool:
         return any(word in lowered for word in words)
 
@@ -31,16 +78,14 @@ def classify_editor(name: str) -> str:
         "antigravity", "vscode", "visual studio code", "cursor",
         "intellij", "pycharm", "webstorm", "goland", "clion",
         "xcode", "vim", "neovim", "emacs", "sublime", "atom", "jetbrains",
+        "terminal", "ghostty", "orca", "workbuddy", "copilot", "codeium", "tabnine",
     ]):
         return "Coding"
 
-    if has_any(["copilot", "codeium", "tabnine", "ai"]):
-        return "AI Assistant"
-
-    if has_any(["抖音", "douyin", "tiktok", "bilibili", "youtube", "netflix"]):
+    if has_any(["抖音", "douyin", "tiktok", "bilibili", "youtube", "netflix", "music"]):
         return "Entertainment"
 
-    if has_any(["notion", "obsidian", "evernote", "roam", "logseq", "typora", "notes", "notebook", "wps", "feishu", "飞书"]):
+    if has_any(["notion", "obsidian", "zotero", "miaoyan", "妙言", "evernote", "roam", "logseq", "typora", "notes", "notebook", "wps", "feishu", "飞书"]):
         return "Notes/Docs"
 
     if has_any(["outlook", "gmail", "mail", "calendar", "teams", "zoom"]):
@@ -72,6 +117,55 @@ def format_time(seconds: float) -> str:
         return f"{hours} hrs {mins} mins" if mins > 0 else f"{hours} hrs"
 
 
+def write_app_runtime_log(editor_totals: Dict[str, float], category_stats: Dict[str, Dict], timezone: str):
+    """Write hidden app-level runtime details for local/CI audit."""
+    total = sum(editor_totals.values())
+    if total <= 0:
+        return
+
+    APP_RUNTIME_LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
+    generated_at = datetime.now(dt_timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    lines = [
+        "# WakaTime App Runtime Log",
+        "",
+        "This file is generated for audit/debugging. README only displays category totals.",
+        "",
+        f"- Generated at: {generated_at}",
+        f"- Timezone: {timezone}",
+        f"- Total tracked app time: {format_time(total)}",
+        "",
+        "## Category Summary",
+        "",
+        "| Category | Time | Percent |",
+        "| --- | ---: | ---: |",
+    ]
+
+    sorted_cats = sorted(category_stats.items(), key=lambda x: x[1]["seconds"], reverse=True)
+    for category, info in sorted_cats:
+        percent = info["seconds"] / total * 100
+        lines.append(f"| `{category}` | {format_time(info['seconds'])} | {percent:5.2f}% |")
+
+    lines.extend(["", "## App Details", ""])
+    for category, info in sorted_cats:
+        apps = sorted(info["apps"], key=lambda x: x[1], reverse=True)
+        category_percent = info["seconds"] / total * 100
+        lines.extend([
+            f"### {category}",
+            "",
+            f"- Category total: {format_time(info['seconds'])} ({category_percent:5.2f}%)",
+            "",
+            "| App | Time | Overall Percent | Category Percent |",
+            "| --- | ---: | ---: | ---: |",
+        ])
+        for app, seconds in apps:
+            overall_percent = seconds / total * 100
+            category_app_percent = seconds / info["seconds"] * 100 if info["seconds"] else 0
+            lines.append(f"| `{app}` | {format_time(seconds)} | {overall_percent:5.2f}% | {category_app_percent:5.2f}% |")
+        lines.append("")
+
+    APP_RUNTIME_LOG_PATH.write_text("\n".join(lines), encoding="utf-8")
+
+
 def scheme_time_period(summaries_data: Dict, durations_data: List[Dict], timezone_str: str) -> str:
     """
     时段分布 (Last 7 Days)
@@ -90,8 +184,6 @@ def scheme_time_period(summaries_data: Dict, durations_data: List[Dict], timezon
         tz = ZoneInfo(timezone_str) if timezone_str else None
     except Exception:
         tz = None
-    
-    from datetime import datetime, timedelta, timezone as dt_timezone
     
     # 时段定义 (参考 generate_showcase.py 的 bucket_circadian)
     periods = {
@@ -181,21 +273,23 @@ def scheme_app_category_with_goals(summaries_data: Dict, goals_data: Dict, timez
         return ""
     
     # 按类别汇总
-    category_stats = defaultdict(lambda: {"seconds": 0})
+    category_stats = defaultdict(lambda: {"seconds": 0, "apps": []})
     for name, seconds in editor_totals.items():
         cat = classify_editor(name)
         category_stats[cat]["seconds"] += seconds
+        category_stats[cat]["apps"].append((name, seconds))
     
     total = sum(c["seconds"] for c in category_stats.values())
     if total == 0:
         return ""
+
+    write_app_runtime_log(editor_totals, category_stats, timezone)
     
     sorted_cats = sorted(category_stats.items(), key=lambda x: x[1]["seconds"], reverse=True)
     top_cat = sorted_cats[0][0]
     
     titles = {
         "Coding": "**Mostly Coding 💻**",
-        "AI Assistant": "**Mostly Exploring 🤖**",
         "Entertainment": "**Mostly Relaxing 🎮**",
         "Communication": "**Mostly Chatting 💬**",
         "Browser": "**Mostly Browsing 🌐**",

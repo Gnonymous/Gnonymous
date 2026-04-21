@@ -19,7 +19,8 @@ from yearly_commit_calculator import calculate_commit_data
 from graphics_list_formatter import make_list, make_commit_day_time_list, make_language_per_repo_list
 from showcase_schemes import (
     scheme_time_period, scheme_app_category_with_goals, scheme_activity_categories,
-    scheme_projects, scheme_languages, scheme_best_day, scheme_global_rank
+    scheme_projects, scheme_languages, scheme_best_day, scheme_global_rank,
+    APP_RUNTIME_LOG_PATH, APP_RUNTIME_LOG_REPO_PATH
 )
 from svg_dashboard_generator import generate_and_save_dashboard, SVG_DASHBOARD_PATH
 
@@ -315,6 +316,8 @@ async def main():
     stats = await get_stats()
     if not EM.DEBUG_RUN:
         GHM.update_readme(stats)
+        if EM.SHOW_APP_CATEGORY and APP_RUNTIME_LOG_PATH.is_file():
+            GHM.copy_file_to_repo(str(APP_RUNTIME_LOG_PATH), APP_RUNTIME_LOG_REPO_PATH)
         GHM.commit_update()
     else:
         GHM.set_github_output(stats)
