@@ -2,7 +2,7 @@
 
 This file is generated for audit/debugging. README only displays category totals.
 
-- Generated at: 2026-04-28 02:41:36 UTC
+- Generated at: 2026-04-28 07:29:52 UTC
 - Timezone: Asia/Shanghai
 - Total tracked app time: 40 hrs 19 mins
 
@@ -12,7 +12,7 @@ This file is generated for audit/debugging. README only displays category totals
 | --- | ---: | ---: |
 | `Browser` | 18 hrs 29 mins | 45.86% |
 | `Entertainment` | 9 hrs 30 mins | 23.59% |
-| `Coding` | 9 hrs 10 mins | 22.75% |
+| `Coding` | 9 hrs 10 mins | 22.76% |
 | `Communication` | 1 hrs 25 mins |  3.55% |
 | `Other` | 1 hrs 20 mins |  3.32% |
 | `Notes/Docs` | 22 mins |  0.92% |
@@ -37,13 +37,13 @@ This file is generated for audit/debugging. README only displays category totals
 
 ### Coding
 
-- Category total: 9 hrs 10 mins (22.75%)
+- Category total: 9 hrs 10 mins (22.76%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Orca` | 5 hrs 17 mins | 13.13% | 57.70% |
-| `Ghostty` | 2 hrs 48 mins |  6.96% | 30.58% |
-| `Antigravity` | 1 hrs 3 mins |  2.63% | 11.57% |
+| `Orca` | 5 hrs 17 mins | 13.13% | 57.68% |
+| `Ghostty` | 2 hrs 48 mins |  6.96% | 30.57% |
+| `Antigravity` | 1 hrs 3 mins |  2.64% | 11.60% |
 | `WorkBuddy` | 48 secs |  0.03% |  0.15% |
 
 ### Communication
