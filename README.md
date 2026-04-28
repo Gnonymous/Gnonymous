@@ -3,10 +3,10 @@
 **I'm a Night 🦇**
 
 ```text
-🌞 Morning              1 hrs 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.62 %
-🌆 Daytime              11 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.54 %
-🌃 Evening              12 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.64 %
-🌙 Night                13 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   34.21 %
+🌞 Morning              1 hrs 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.51 %
+🌆 Daytime              11 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   27.89 %
+🌃 Evening              12 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   31.90 %
+🌙 Night                14 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   35.71 %
 ```
 
 **Mostly Browsing 🌐**
@@ -15,16 +15,16 @@
 🕐 Time Zone: Asia/Shanghai
 
 🔥 Activities:
-   Browser                17 hrs 49 mins       ███████████░░░░░░░░░░░░░░   45.77 %
-   Entertainment          8 hrs 34 mins        █████░░░░░░░░░░░░░░░░░░░░   22.02 %
-   Coding                 7 hrs 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.30 %
-   Other                  3 hrs 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░    8.20 %
-   Communication          1 hrs 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.81 %
-   Notes/Docs             21 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.91 %
+   Browser                18 hrs 5 mins        ███████████░░░░░░░░░░░░░░   45.40 %
+   Entertainment          8 hrs 40 mins        █████░░░░░░░░░░░░░░░░░░░░   21.77 %
+   Coding                 7 hrs 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.58 %
+   Other                  3 hrs 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░    8.49 %
+   Communication          1 hrs 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.87 %
+   Notes/Docs             21 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.89 %
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ███ ███ ░░░ ░░░ ░░░ ░░░ ░░░ | █████░░░░░░░░░░░░░░░░░░░░   20.15 % ❌
+   Status        ███ ███ ░░░ ░░░ ░░░ ░░░ ░░░ | ██████████░░░░░░░░░░░░░░░   42.88 % ❌
 ```
 
 
@@ -32,5 +32,5 @@
 
 
 
- Last Updated on 28/04/2026 16:49:12 UTC
+ Last Updated on 28/04/2026 21:05:17 UTC
 <!--END_SECTION:waka-->
