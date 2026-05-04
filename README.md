@@ -4,9 +4,9 @@
 
 ```text
 🌞 Morning              0 secs               ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 %
-🌆 Daytime              17 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   37.10 %
-🌃 Evening              16 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.27 %
-🌙 Night                12 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   26.63 %
+🌆 Daytime              17 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   35.41 %
+🌃 Evening              16 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   34.62 %
+🌙 Night                14 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.97 %
 ```
 
 **Mostly Browsing 🌐**
@@ -15,16 +15,16 @@
 🕐 Time Zone: Asia/Shanghai
 
 🔥 Activities:
-   Browser                21 hrs 15 mins       ███████████░░░░░░░░░░░░░░   45.92 %
-   Entertainment          10 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   23.29 %
-   Other                  5 hrs 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 %
-   Coding                 4 hrs 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.77 %
-   Communication          3 hrs 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    6.83 %
-   Notes/Docs             9 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░    0.33 %
+   Browser                22 hrs 8 mins        ███████████░░░░░░░░░░░░░░   45.61 %
+   Entertainment          11 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29 %
+   Other                  5 hrs 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+   Coding                 4 hrs 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+   Communication          3 hrs 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    7.21 %
+   Notes/Docs             9 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░    0.31 %
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ███ ░░░ ░░░ ░░░ ░░░ ░░░ ░░░ | ░░░░░░░░░░░░░░░░░░░░░░░░░    0.84 % ❌
+   Status        ███ ▒▒▒ ░░░ ░░░ ░░░ ░░░ ░░░ | ██████████████░░░░░░░░░░░   56.17 % ⏳
 ```
 
 
@@ -32,5 +32,5 @@
 
 
 
- Last Updated on 04/05/2026 16:44:22 UTC
+ Last Updated on 04/05/2026 21:06:21 UTC
 <!--END_SECTION:waka-->
