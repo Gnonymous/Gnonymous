@@ -3,10 +3,10 @@
 **I'm an Evening 🦉**
 
 ```text
-🌞 Morning              3 hrs 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    7.32 %
-🌆 Daytime              9 hrs 35 mins        █████░░░░░░░░░░░░░░░░░░░░   21.23 %
-🌃 Evening              16 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.43 %
-🌙 Night                15 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   34.02 %
+🌞 Morning              3 hrs 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    7.13 %
+🌆 Daytime              9 hrs 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.68 %
+🌃 Evening              16 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.46 %
+🌙 Night                16 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   35.74 %
 ```
 
 **Mostly Browsing 🌐**
@@ -15,16 +15,16 @@
 🕐 Time Zone: Asia/Shanghai
 
 🔥 Activities:
-   Browser                28 hrs 40 mins       ███████████████░░░░░░░░░░   63.42 %
-   Entertainment          8 hrs 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.19 %
-   Other                  3 hrs 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    6.96 %
-   Coding                 2 hrs 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    5.89 %
-   Communication          2 hrs 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    5.44 %
+   Browser                29 hrs 31 mins       ███████████████░░░░░░░░░░   63.61 %
+   Entertainment          8 hrs 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.85 %
+   Other                  3 hrs 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    6.91 %
+   Coding                 2 hrs 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    6.23 %
+   Communication          2 hrs 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    5.30 %
    Notes/Docs             2 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░    0.10 %
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ███ ░░░ ░░░ ░░░ ░░░ ░░░ ░░░ | ████████░░░░░░░░░░░░░░░░░   33.76 % ❌
+   Status        ███ ▒▒▒ ░░░ ░░░ ░░░ ░░░ ░░░ | ███████████████░░░░░░░░░░   63.94 % ⏳
 ```
 
 
@@ -32,5 +32,5 @@
 
 
 
- Last Updated on 11/05/2026 17:22:38 UTC
+ Last Updated on 11/05/2026 21:14:36 UTC
 <!--END_SECTION:waka-->
