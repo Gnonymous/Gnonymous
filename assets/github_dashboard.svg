@@ -124,29 +124,29 @@
         </g>
         <text x="34" y="33" class="sans small bold" fill="#406CC4">Issues</text>
         
-        <rect x="1.0" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
-<rect x="9.755" y="103.5" width="7.7" height="16" rx="1" fill="#61adf4" />
-<rect x="18.51" y="103.5" width="7.7" height="16" rx="1" fill="#61adf4" />
-<rect x="27.265" y="86.5" width="7.7" height="33" rx="1" fill="#61adf4" />
+        <rect x="1.0" y="94.5" width="7.7" height="25" rx="1" fill="#61adf4" />
+<rect x="9.755" y="94.5" width="7.7" height="25" rx="1" fill="#61adf4" />
+<rect x="18.51" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
+<rect x="27.265" y="69.5" width="7.7" height="50" rx="1" fill="#61adf4" />
 <rect x="36.02" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
 <rect x="44.775000000000006" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
 <rect x="53.53" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
 <rect x="62.285000000000004" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
-<rect x="71.04" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
+<rect x="71.04" y="94.5" width="7.7" height="25" rx="1" fill="#61adf4" />
 <rect x="79.795" y="69.5" width="7.7" height="50" rx="1" fill="#61adf4" />
 <rect x="88.55000000000001" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
-<rect x="97.305" y="103.5" width="7.7" height="16" rx="1" fill="#61adf4" />
-<rect x="106.06" y="103.5" width="7.7" height="16" rx="1" fill="#61adf4" />
+<rect x="97.305" y="94.5" width="7.7" height="25" rx="1" fill="#61adf4" />
+<rect x="106.06" y="94.5" width="7.7" height="25" rx="1" fill="#61adf4" />
 <rect x="114.81500000000001" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
 <rect x="123.57000000000001" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
 <rect x="132.32500000000002" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
 <rect x="141.08" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
 <rect x="149.835" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
 <rect x="158.59" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
-<rect x="167.34500000000003" y="103.5" width="7.7" height="16" rx="1" fill="#61adf4" />
+<rect x="167.34500000000003" y="94.5" width="7.7" height="25" rx="1" fill="#61adf4" />
 <rect x="176.10000000000002" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
 <rect x="184.85500000000002" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
-<rect x="193.61" y="86.5" width="7.7" height="33" rx="1" fill="#61adf4" />
+<rect x="193.61" y="69.5" width="7.7" height="50" rx="1" fill="#61adf4" />
 <rect x="202.365" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
 <rect x="211.12" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
 <rect x="219.87500000000003" y="119.5" width="7.7" height="0" rx="1" fill="#61adf4" />
@@ -202,8 +202,8 @@
 <rect x="219.87500000000003" y="119.5" width="7.7" height="0" rx="1" fill="#cf54fc" />
 <rect x="228.63000000000002" y="119.5" width="7.7" height="0" rx="1" fill="#cf54fc" />
 <rect x="237.38500000000002" y="107.5" width="7.7" height="12" rx="1" fill="#cf54fc" />
-<rect x="246.14000000000001" y="119.5" width="7.7" height="0" rx="1" fill="#cf54fc" />
-<rect x="254.895" y="107.5" width="7.7" height="12" rx="1" fill="#cf54fc" />
+<rect x="246.14000000000001" y="107.5" width="7.7" height="12" rx="1" fill="#cf54fc" />
+<rect x="254.895" y="119.5" width="7.7" height="0" rx="1" fill="#cf54fc" />
 
     </g>
 
