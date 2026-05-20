@@ -2,34 +2,34 @@
 
 This file is generated for audit/debugging. README only displays category totals.
 
-- Generated at: 2026-05-20 17:53:29 UTC
+- Generated at: 2026-05-20 21:50:16 UTC
 - Timezone: Asia/Shanghai
-- Total tracked app time: 61 hrs 35 mins
+- Total tracked app time: 61 hrs 37 mins
 
 ## Category Summary
 
 | Category | Time | Percent |
 | --- | ---: | ---: |
-| `Browser` | 28 hrs 5 mins | 45.60% |
-| `Coding` | 12 hrs 42 mins | 20.64% |
-| `Other` | 11 hrs 50 mins | 19.24% |
-| `Entertainment` | 5 hrs 41 mins |  9.25% |
-| `Communication` | 3 hrs 3 mins |  4.98% |
+| `Browser` | 28 hrs 6 mins | 45.63% |
+| `Coding` | 12 hrs 42 mins | 20.63% |
+| `Other` | 11 hrs 50 mins | 19.23% |
+| `Entertainment` | 5 hrs 41 mins |  9.24% |
+| `Communication` | 3 hrs 3 mins |  4.97% |
 | `Notes/Docs` | 11 mins |  0.30% |
 
 ## App Details
 
 ### Browser
 
-- Category total: 28 hrs 5 mins (45.60%)
+- Category total: 28 hrs 6 mins (45.63%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Chrome` | 28 hrs 5 mins | 45.60% | 100.00% |
+| `Chrome` | 28 hrs 6 mins | 45.63% | 100.00% |
 
 ### Coding
 
-- Category total: 12 hrs 42 mins (20.64%)
+- Category total: 12 hrs 42 mins (20.63%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
@@ -39,23 +39,23 @@ This file is generated for audit/debugging. README only displays category totals
 
 ### Other
 
-- Category total: 11 hrs 50 mins (19.24%)
+- Category total: 11 hrs 50 mins (19.23%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Claude Code` | 11 hrs 50 mins | 19.24% | 100.00% |
+| `Claude Code` | 11 hrs 50 mins | 19.23% | 100.00% |
 
 ### Entertainment
 
-- Category total: 5 hrs 41 mins ( 9.25%)
+- Category total: 5 hrs 41 mins ( 9.24%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `抖音` | 5 hrs 41 mins |  9.25% | 100.00% |
+| `抖音` | 5 hrs 41 mins |  9.24% | 100.00% |
 
 ### Communication
 
-- Category total: 3 hrs 3 mins ( 4.98%)
+- Category total: 3 hrs 3 mins ( 4.97%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
