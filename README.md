@@ -3,28 +3,28 @@
 **I'm an Evening 🦉**
 
 ```text
-🌞 Morning              2 hrs 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.12 %
-🌆 Daytime              17 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.32 %
-🌃 Evening              23 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   38.77 %
-🌙 Night                17 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.79 %
+🌞 Morning              2 hrs 32 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    3.91 %
+🌆 Daytime              20 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   31.95 %
+🌃 Evening              23 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   36.81 %
+🌙 Night                17 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   27.33 %
 ```
 
-**Mostly Versatile 🌟**
+**Mostly Browsing 🌐**
 
 ```text
 🕐 Time Zone: Asia/Shanghai
 
 🔥 Activities:
-   Other                  22 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.11 %
-   Browser                21 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   35.25 %
-   Coding                 9 hrs 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
-   Entertainment          4 hrs 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    7.65 %
-   Communication          2 hrs 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.76 %
-   Notes/Docs             4 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░    0.12 %
+   Browser                23 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.62 %
+   Other                  22 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   34.61 %
+   Coding                 10 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.58 %
+   Entertainment          5 hrs 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░    8.51 %
+   Communication          2 hrs 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.57 %
+   Notes/Docs             4 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░    0.11 %
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ▒▒▒ ░░░ ░░░ ░░░ ░░░ ░░░ ░░░ | ████████████████░░░░░░░░░   64.11 % ⏳
+   Status        ███ ░░░ ░░░ ░░░ ░░░ ░░░ ░░░ | █████████████████████████   146.46 % ✅
 ```
 
 
@@ -32,5 +32,5 @@
 
 
 
- Last Updated on 25/05/2026 03:34:46 UTC
+ Last Updated on 25/05/2026 08:54:30 UTC
 <!--END_SECTION:waka-->
