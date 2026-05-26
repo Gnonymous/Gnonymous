@@ -1,12 +1,12 @@
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Yuhan Guo | Eohan**, a Ph.D Student @ SJTU, School of CS.
 <!--START_SECTION:waka-->
-**I'm an Evening 🦉**
+**I'm a Night 🦇**
 
 ```text
 🌞 Morning              16 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.01 %
-🌆 Daytime              18 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.29 %
-🌃 Evening              20 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   35.69 %
-🌙 Night                17 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   31.01 %
+🌆 Daytime              18 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   30.94 %
+🌃 Evening              20 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.16 %
+🌙 Night                21 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   35.89 %
 ```
 
 **Mostly Browsing 🌐**
@@ -15,15 +15,15 @@
 🕐 Time Zone: Asia/Shanghai
 
 🔥 Activities:
-   Browser                22 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   39.54 %
-   Other                  18 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   32.69 %
-   Coding                 7 hrs 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 %
-   Entertainment          5 hrs 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-   Communication          2 hrs 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.57 %
+   Browser                23 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   38.64 %
+   Other                  20 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   34.67 %
+   Coding                 7 hrs 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 %
+   Entertainment          5 hrs 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░    9.70 %
+   Communication          2 hrs 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.31 %
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ███ ███ ░░░ ░░░ ░░░ ░░░ ░░░ | ████████░░░░░░░░░░░░░░░░░   35.49 % ❌
+   Status        ███ ███ ███ ░░░ ░░░ ░░░ ░░░ | █████████████████████████   142.46 % ✅
 ```
 
 
@@ -31,5 +31,5 @@
 
 
 
- Last Updated on 26/05/2026 17:55:00 UTC
+ Last Updated on 26/05/2026 21:42:25 UTC
 <!--END_SECTION:waka-->
