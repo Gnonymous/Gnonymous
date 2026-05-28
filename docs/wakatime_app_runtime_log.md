@@ -2,7 +2,7 @@
 
 This file is generated for audit/debugging. README only displays category totals.
 
-- Generated at: 2026-05-27 21:51:53 UTC
+- Generated at: 2026-05-28 02:52:44 UTC
 - Timezone: Asia/Shanghai
 - Total tracked app time: 62 hrs 9 mins
 
@@ -32,7 +32,8 @@ This file is generated for audit/debugging. README only displays category totals
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Claude Code` | 22 hrs 6 mins | 35.56% | 100.00% |
+| `Claude Code` | 21 hrs 35 mins | 34.73% | 97.68% |
+| `Unknown Editor` | 30 mins |  0.82% |  2.32% |
 
 ### Coding
 
