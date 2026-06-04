@@ -1,18 +1,18 @@
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Yuhan Guo | Eohan**, a Ph.D Student @ SJTU, School of CS.
 <!--START_SECTION:waka-->
-**I'm an Evening 🦉**
+**I'm a Daytime ☀️**
 
 ```text
-🌞 Morning              4 hrs 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-🌆 Daytime              12 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   35.45 %
-🌃 Evening              13 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.99 %
-🌙 Night                5 hrs 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.54 %
+🌞 Morning              13 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   38.11 %
+🌆 Daytime              14 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   39.22 %
+🌃 Evening              1 hrs 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    3.46 %
+🌙 Night                6 hrs 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.21 %
 ```
 
 **Mostly Coding 💻**
 
 ```text
-🕐 Time Zone: Asia/Shanghai
+🕐 Time Zone: UTC
 
 🔥 Activities:
    Coding                 12 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   34.60 %
@@ -24,7 +24,7 @@
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ▒▒▒ ███ ███ ███ ░░░ ░░░ ░░░ | █████░░░░░░░░░░░░░░░░░░░░   22.26 % ❌
+   Status        ▒▒▒ ███ ███ ███ ░░░ ░░░ ░░░ | █████████████████████████   213.97 % ✅
 ```
 
 
@@ -32,5 +32,5 @@
 
 
 
- Last Updated on 04/06/2026 17:44:10 UTC
+ Last Updated on 04/06/2026 21:28:37 UTC
 <!--END_SECTION:waka-->

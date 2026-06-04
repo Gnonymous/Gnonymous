@@ -2,8 +2,8 @@
 
 This file is generated for audit/debugging. README only displays category totals.
 
-- Generated at: 2026-06-04 17:44:09 UTC
-- Timezone: Asia/Shanghai
+- Generated at: 2026-06-04 21:28:36 UTC
+- Timezone: UTC
 - Total tracked app time: 34 hrs 48 mins
 
 ## Category Summary
