@@ -2,7 +2,7 @@
 
 This file is generated for audit/debugging. README only displays category totals.
 
-- Generated at: 2026-06-14 16:19:54 UTC
+- Generated at: 2026-06-14 21:09:31 UTC
 - Timezone: Asia/Shanghai
 - Total tracked app time: 48 hrs 29 mins
 
@@ -10,22 +10,22 @@ This file is generated for audit/debugging. README only displays category totals
 
 | Category | Time | Percent |
 | --- | ---: | ---: |
-| `Other` | 17 hrs 34 mins | 36.26% |
+| `Other` | 17 hrs 34 mins | 36.25% |
 | `Coding` | 11 hrs 18 mins | 23.32% |
 | `Browser` | 11 hrs 10 mins | 23.04% |
 | `Entertainment` | 4 hrs 45 mins |  9.80% |
-| `Communication` | 2 hrs 18 mins |  4.75% |
+| `Communication` | 2 hrs 18 mins |  4.76% |
 | `Notes/Docs` | 1 hrs 22 mins |  2.83% |
 
 ## App Details
 
 ### Other
 
-- Category total: 17 hrs 34 mins (36.26%)
+- Category total: 17 hrs 34 mins (36.25%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Claude Code` | 17 hrs 34 mins | 36.26% | 100.00% |
+| `Claude Code` | 17 hrs 34 mins | 36.25% | 100.00% |
 
 ### Coding
 
@@ -54,11 +54,11 @@ This file is generated for audit/debugging. README only displays category totals
 
 ### Communication
 
-- Category total: 2 hrs 18 mins ( 4.75%)
+- Category total: 2 hrs 18 mins ( 4.76%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `WeChat` | 2 hrs 9 mins |  4.44% | 93.48% |
+| `WeChat` | 2 hrs 9 mins |  4.45% | 93.48% |
 | `MicrosoftOutlook` | 9 mins |  0.31% |  6.52% |
 
 ### Notes/Docs
