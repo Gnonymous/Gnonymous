@@ -28,6 +28,18 @@ def classify_editor(name: str) -> str:
     lowered = raw.lower()
 
     exact_map = {
+        # AI coding agents / CLIs（各自插件上报的 editor 名，未收录会落入 Other）
+        "claude code": "Coding",
+        "claude": "Coding",
+        "claude-code": "Coding",
+        "codex": "Coding",
+        "openai codex": "Coding",
+        "gemini cli": "Coding",
+        "gemini": "Coding",
+        "aider": "Coding",
+        "opencode": "Coding",
+        "amp": "Coding",
+        "warp": "Coding",
         # Coding / terminals
         "antigravity": "Coding",
         "ghostty": "Coding",
@@ -79,6 +91,9 @@ def classify_editor(name: str) -> str:
         "intellij", "pycharm", "webstorm", "goland", "clion",
         "xcode", "vim", "neovim", "emacs", "sublime", "atom", "jetbrains",
         "terminal", "ghostty", "orca", "workbuddy", "copilot", "codeium", "tabnine",
+        # AI coding agents（关键词兜底，可命中带版本号的变体如 "Claude Code 2.x"）
+        "claude", "codex", "aider", "windsurf", "cline", "opencode",
+        "kiro", "trae", "zed", "warp", "gemini cli",
     ]):
         return "Coding"
 
