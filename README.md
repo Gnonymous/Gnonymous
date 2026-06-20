@@ -3,28 +3,28 @@
 **I'm a Daytime ☀️**
 
 ```text
-🌞 Morning              6 hrs 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-🌆 Daytime              28 hrs 19 mins       ███████████░░░░░░░░░░░░░░   45.68 %
-🌃 Evening              11 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.90 %
-🌙 Night                15 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.20 %
+🌞 Morning              6 hrs 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 %
+🌆 Daytime              23 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.38 %
+🌃 Evening              10 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.33 %
+🌙 Night                12 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   23.20 %
 ```
 
-**Mostly Versatile 🌟**
+**Mostly Coding 💻**
 
 ```text
 🕐 Time Zone: Asia/Shanghai
 
 🔥 Activities:
-   Other                  20 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.90 %
-   Coding                 17 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.81 %
-   Browser                15 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.19 %
-   Entertainment          6 hrs 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-   Communication          1 hrs 53 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    3.04 %
+   Coding                 16 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   30.83 %
+   Other                  16 hrs               ███████░░░░░░░░░░░░░░░░░░   30.18 %
+   Browser                13 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   26.35 %
+   Entertainment          5 hrs 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░    9.53 %
+   Communication          1 hrs 37 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    3.08 %
    Notes/Docs             1 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░    0.03 %
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ███ ███ ███ ███ ███ ███ ░░░ | █████████████████████████   234.87 % ✅
+   Status        ███ ███ ███ ███ ███ ███ ░░░ | ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % ❌
 ```
 
 
@@ -32,5 +32,5 @@
 
 
 
- Last Updated on 20/06/2026 11:54:11 UTC
+ Last Updated on 20/06/2026 16:14:56 UTC
 <!--END_SECTION:waka-->
