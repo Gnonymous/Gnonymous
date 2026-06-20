@@ -1,4 +1,5 @@
 # Ignore demo.md file
+repo/
 demo.md
 demo_zh.md
 .DS_Store
