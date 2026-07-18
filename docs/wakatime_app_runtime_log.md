@@ -2,62 +2,62 @@
 
 This file is generated for audit/debugging. README only displays category totals.
 
-- Generated at: 2026-07-18 15:53:41 UTC
+- Generated at: 2026-07-18 20:43:22 UTC
 - Timezone: Asia/Shanghai
-- Total tracked app time: 45 hrs 48 mins
+- Total tracked app time: 37 hrs 24 mins
 
 ## Category Summary
 
 | Category | Time | Percent |
 | --- | ---: | ---: |
-| `Coding` | 35 hrs 12 mins | 76.87% |
-| `Browser` | 6 hrs 23 mins | 13.97% |
-| `Entertainment` | 1 hrs 49 mins |  4.00% |
-| `Communication` | 1 hrs 49 mins |  3.99% |
-| `Notes/Docs` | 32 mins |  1.17% |
+| `Coding` | 29 hrs 21 mins | 78.49% |
+| `Browser` | 3 hrs 58 mins | 10.61% |
+| `Entertainment` | 1 hrs 49 mins |  4.88% |
+| `Communication` | 1 hrs 43 mins |  4.59% |
+| `Notes/Docs` | 32 mins |  1.43% |
 
 ## App Details
 
 ### Coding
 
-- Category total: 35 hrs 12 mins (76.87%)
+- Category total: 29 hrs 21 mins (78.49%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Claude Code` | 29 hrs | 63.34% | 82.40% |
-| `Orca` | 5 hrs 48 mins | 12.66% | 16.47% |
-| `Ghostty` | 23 mins |  0.87% |  1.13% |
+| `Claude Code` | 23 hrs 39 mins | 63.22% | 80.54% |
+| `Orca` | 5 hrs 20 mins | 14.27% | 18.18% |
+| `Ghostty` | 22 mins |  1.00% |  1.28% |
 
 ### Browser
 
-- Category total: 6 hrs 23 mins (13.97%)
+- Category total: 3 hrs 58 mins (10.61%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Chrome` | 6 hrs 23 mins | 13.97% | 100.00% |
+| `Chrome` | 3 hrs 58 mins | 10.61% | 100.00% |
 
 ### Entertainment
 
-- Category total: 1 hrs 49 mins ( 4.00%)
+- Category total: 1 hrs 49 mins ( 4.88%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `抖音` | 1 hrs 47 mins |  3.90% | 97.66% |
-| `Music` | 2 mins |  0.09% |  2.34% |
+| `抖音` | 1 hrs 46 mins |  4.76% | 97.65% |
+| `Music` | 2 mins |  0.11% |  2.35% |
 
 ### Communication
 
-- Category total: 1 hrs 49 mins ( 3.99%)
+- Category total: 1 hrs 43 mins ( 4.59%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `WeChat` | 1 hrs 39 mins |  3.62% | 90.73% |
-| `MicrosoftOutlook` | 10 mins |  0.37% |  9.27% |
+| `WeChat` | 1 hrs 32 mins |  4.14% | 90.20% |
+| `MicrosoftOutlook` | 10 mins |  0.45% |  9.80% |
 
 ### Notes/Docs
 
-- Category total: 32 mins ( 1.17%)
+- Category total: 32 mins ( 1.43%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `WPSOffice` | 32 mins |  1.17% | 100.00% |
+| `WPSOffice` | 32 mins |  1.43% | 100.00% |
