@@ -2,62 +2,62 @@
 
 This file is generated for audit/debugging. README only displays category totals.
 
-- Generated at: 2026-07-23 07:30:37 UTC
+- Generated at: 2026-07-23 11:48:55 UTC
 - Timezone: Asia/Shanghai
-- Total tracked app time: 9 hrs 45 mins
+- Total tracked app time: 10 hrs 55 mins
 
 ## Category Summary
 
 | Category | Time | Percent |
 | --- | ---: | ---: |
-| `Coding` | 7 hrs 4 mins | 72.47% |
-| `Browser` | 1 hrs 42 mins | 17.47% |
-| `Communication` | 48 mins |  8.23% |
-| `Entertainment` | 9 mins |  1.70% |
-| `Notes/Docs` | 41 secs |  0.12% |
+| `Coding` | 7 hrs 25 mins | 67.94% |
+| `Browser` | 1 hrs 43 mins | 15.73% |
+| `Communication` | 1 hrs 7 mins | 10.27% |
+| `Entertainment` | 39 mins |  5.96% |
+| `Notes/Docs` | 41 secs |  0.11% |
 
 ## App Details
 
 ### Coding
 
-- Category total: 7 hrs 4 mins (72.47%)
+- Category total: 7 hrs 25 mins (67.94%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Claude Code` | 5 hrs 19 mins | 54.61% | 75.35% |
-| `Orca` | 1 hrs 35 mins | 16.26% | 22.43% |
-| `Ghostty` | 9 mins |  1.61% |  2.22% |
+| `Claude Code` | 5 hrs 32 mins | 50.80% | 74.77% |
+| `Orca` | 1 hrs 40 mins | 15.35% | 22.60% |
+| `Ghostty` | 11 mins |  1.79% |  2.63% |
 
 ### Browser
 
-- Category total: 1 hrs 42 mins (17.47%)
+- Category total: 1 hrs 43 mins (15.73%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Chrome` | 1 hrs 42 mins | 17.47% | 100.00% |
+| `Chrome` | 1 hrs 43 mins | 15.73% | 100.00% |
 
 ### Communication
 
-- Category total: 48 mins ( 8.23%)
+- Category total: 1 hrs 7 mins (10.27%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `WeChat` | 43 mins |  7.48% | 90.90% |
-| `MicrosoftOutlook` | 4 mins |  0.75% |  9.10% |
+| `WeChat` | 1 hrs 2 mins |  9.60% | 93.49% |
+| `MicrosoftOutlook` | 4 mins |  0.67% |  6.51% |
 
 ### Entertainment
 
-- Category total: 9 mins ( 1.70%)
+- Category total: 39 mins ( 5.96%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `抖音` | 5 mins |  0.88% | 51.67% |
-| `Music` | 4 mins |  0.82% | 48.33% |
+| `抖音` | 34 mins |  5.23% | 87.63% |
+| `Music` | 4 mins |  0.74% | 12.37% |
 
 ### Notes/Docs
 
-- Category total: 41 secs ( 0.12%)
+- Category total: 41 secs ( 0.11%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `WPSOffice` | 41 secs |  0.12% | 100.00% |
+| `WPSOffice` | 41 secs |  0.11% | 100.00% |
