@@ -2,57 +2,57 @@
 
 This file is generated for audit/debugging. README only displays category totals.
 
-- Generated at: 2026-07-25 02:24:53 UTC
+- Generated at: 2026-07-25 07:12:49 UTC
 - Timezone: Asia/Shanghai
-- Total tracked app time: 24 hrs 34 mins
+- Total tracked app time: 25 hrs 17 mins
 
 ## Category Summary
 
 | Category | Time | Percent |
 | --- | ---: | ---: |
-| `Coding` | 19 hrs 42 mins | 80.22% |
-| `Browser` | 2 hrs 24 mins |  9.79% |
-| `Communication` | 1 hrs 32 mins |  6.28% |
-| `Entertainment` | 54 mins |  3.67% |
+| `Coding` | 20 hrs 15 mins | 80.12% |
+| `Browser` | 2 hrs 24 mins |  9.53% |
+| `Communication` | 1 hrs 32 mins |  6.12% |
+| `Entertainment` | 1 hrs 3 mins |  4.19% |
 | `Notes/Docs` | 41 secs |  0.05% |
 
 ## App Details
 
 ### Coding
 
-- Category total: 19 hrs 42 mins (80.22%)
+- Category total: 20 hrs 15 mins (80.12%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Claude Code` | 17 hrs 26 mins | 70.94% | 88.44% |
-| `Orca` | 2 hrs |  8.20% | 10.23% |
-| `Ghostty` | 15 mins |  1.07% |  1.33% |
+| `Claude Code` | 17 hrs 47 mins | 70.32% | 87.77% |
+| `Orca` | 2 hrs 10 mins |  8.60% | 10.74% |
+| `Ghostty` | 18 mins |  1.20% |  1.49% |
 
 ### Browser
 
-- Category total: 2 hrs 24 mins ( 9.79%)
+- Category total: 2 hrs 24 mins ( 9.53%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Chrome` | 2 hrs 24 mins |  9.79% | 100.00% |
+| `Chrome` | 2 hrs 24 mins |  9.53% | 100.00% |
 
 ### Communication
 
-- Category total: 1 hrs 32 mins ( 6.28%)
+- Category total: 1 hrs 32 mins ( 6.12%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `WeChat` | 1 hrs 28 mins |  5.97% | 95.07% |
-| `MicrosoftOutlook` | 4 mins |  0.31% |  4.93% |
+| `WeChat` | 1 hrs 28 mins |  5.82% | 95.06% |
+| `MicrosoftOutlook` | 4 mins |  0.30% |  4.94% |
 
 ### Entertainment
 
-- Category total: 54 mins ( 3.67%)
+- Category total: 1 hrs 3 mins ( 4.19%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `抖音` | 48 mins |  3.26% | 88.95% |
-| `Music` | 5 mins |  0.41% | 11.05% |
+| `抖音` | 57 mins |  3.79% | 90.44% |
+| `Music` | 6 mins |  0.40% |  9.56% |
 
 ### Notes/Docs
 
