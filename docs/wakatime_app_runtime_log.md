@@ -2,53 +2,53 @@
 
 This file is generated for audit/debugging. README only displays category totals.
 
-- Generated at: 2026-07-29 02:23:39 UTC
+- Generated at: 2026-07-29 07:40:15 UTC
 - Timezone: Asia/Shanghai
-- Total tracked app time: 63 hrs 19 mins
+- Total tracked app time: 74 hrs 53 mins
 
 ## Category Summary
 
 | Category | Time | Percent |
 | --- | ---: | ---: |
-| `Coding` | 56 hrs 25 mins | 89.12% |
-| `Browser` | 3 hrs 4 mins |  4.86% |
-| `Entertainment` | 2 hrs 26 mins |  3.85% |
-| `Communication` | 1 hrs 22 mins |  2.16% |
+| `Coding` | 67 hrs 17 mins | 89.84% |
+| `Browser` | 3 hrs 44 mins |  5.01% |
+| `Entertainment` | 2 hrs 26 mins |  3.26% |
+| `Communication` | 1 hrs 24 mins |  1.89% |
 
 ## App Details
 
 ### Coding
 
-- Category total: 56 hrs 25 mins (89.12%)
+- Category total: 67 hrs 17 mins (89.84%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Claude Code` | 52 hrs 22 mins | 82.72% | 92.82% |
-| `Orca` | 3 hrs 44 mins |  5.91% |  6.64% |
-| `Ghostty` | 18 mins |  0.49% |  0.55% |
+| `Claude Code` | 62 hrs 41 mins | 83.71% | 93.17% |
+| `Orca` | 4 hrs 15 mins |  5.68% |  6.32% |
+| `Ghostty` | 20 mins |  0.46% |  0.51% |
 
 ### Browser
 
-- Category total: 3 hrs 4 mins ( 4.86%)
+- Category total: 3 hrs 44 mins ( 5.01%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Chrome` | 3 hrs 4 mins |  4.86% | 100.00% |
+| `Chrome` | 3 hrs 44 mins |  5.01% | 100.00% |
 
 ### Entertainment
 
-- Category total: 2 hrs 26 mins ( 3.85%)
+- Category total: 2 hrs 26 mins ( 3.26%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `抖音` | 2 hrs 23 mins |  3.78% | 98.01% |
-| `Music` | 2 mins |  0.08% |  1.99% |
+| `抖音` | 2 hrs 23 mins |  3.19% | 98.01% |
+| `Music` | 2 mins |  0.06% |  1.99% |
 
 ### Communication
 
-- Category total: 1 hrs 22 mins ( 2.16%)
+- Category total: 1 hrs 24 mins ( 1.89%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `WeChat` | 1 hrs 17 mins |  2.03% | 93.81% |
-| `MicrosoftOutlook` | 5 mins |  0.13% |  6.19% |
+| `WeChat` | 1 hrs 19 mins |  1.76% | 93.13% |
+| `MicrosoftOutlook` | 5 mins |  0.13% |  6.87% |
