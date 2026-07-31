@@ -2,52 +2,52 @@
 
 This file is generated for audit/debugging. README only displays category totals.
 
-- Generated at: 2026-07-31 16:42:57 UTC
+- Generated at: 2026-07-31 21:01:01 UTC
 - Timezone: Asia/Shanghai
-- Total tracked app time: 96 hrs 51 mins
+- Total tracked app time: 99 hrs 17 mins
 
 ## Category Summary
 
 | Category | Time | Percent |
 | --- | ---: | ---: |
-| `Coding` | 89 hrs 37 mins | 92.53% |
-| `Browser` | 3 hrs 45 mins |  3.88% |
-| `Communication` | 2 hrs |  2.08% |
-| `Entertainment` | 1 hrs 27 mins |  1.51% |
+| `Coding` | 90 hrs 51 mins | 91.50% |
+| `Browser` | 4 hrs 55 mins |  4.96% |
+| `Communication` | 2 hrs 3 mins |  2.07% |
+| `Entertainment` | 1 hrs 27 mins |  1.47% |
 
 ## App Details
 
 ### Coding
 
-- Category total: 89 hrs 37 mins (92.53%)
+- Category total: 90 hrs 51 mins (91.50%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Claude Code` | 82 hrs 20 mins | 85.02% | 91.88% |
-| `Orca` | 6 hrs 37 mins |  6.84% |  7.39% |
-| `Ghostty` | 39 mins |  0.68% |  0.73% |
+| `Claude Code` | 83 hrs 1 mins | 83.61% | 91.38% |
+| `Orca` | 7 hrs 9 mins |  7.21% |  7.88% |
+| `Ghostty` | 40 mins |  0.68% |  0.74% |
 
 ### Browser
 
-- Category total: 3 hrs 45 mins ( 3.88%)
+- Category total: 4 hrs 55 mins ( 4.96%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Chrome` | 3 hrs 45 mins |  3.88% | 100.00% |
+| `Chrome` | 4 hrs 55 mins |  4.96% | 100.00% |
 
 ### Communication
 
-- Category total: 2 hrs ( 2.08%)
+- Category total: 2 hrs 3 mins ( 2.07%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `WeChat` | 1 hrs 57 mins |  2.03% | 97.54% |
-| `MicrosoftOutlook` | 2 mins |  0.05% |  2.46% |
+| `WeChat` | 1 hrs 59 mins |  2.01% | 97.21% |
+| `MicrosoftOutlook` | 3 mins |  0.06% |  2.79% |
 
 ### Entertainment
 
-- Category total: 1 hrs 27 mins ( 1.51%)
+- Category total: 1 hrs 27 mins ( 1.47%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `抖音` | 1 hrs 27 mins |  1.51% | 100.00% |
+| `抖音` | 1 hrs 27 mins |  1.47% | 100.00% |
