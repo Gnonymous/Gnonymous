@@ -2,52 +2,53 @@
 
 This file is generated for audit/debugging. README only displays category totals.
 
-- Generated at: 2026-08-02 02:30:28 UTC
+- Generated at: 2026-08-02 07:30:15 UTC
 - Timezone: Asia/Shanghai
-- Total tracked app time: 115 hrs 25 mins
+- Total tracked app time: 128 hrs 57 mins
 
 ## Category Summary
 
 | Category | Time | Percent |
 | --- | ---: | ---: |
-| `Coding` | 105 hrs 12 mins | 91.15% |
-| `Browser` | 6 hrs 9 mins |  5.33% |
-| `Communication` | 2 hrs 21 mins |  2.05% |
-| `Entertainment` | 1 hrs 41 mins |  1.47% |
+| `Coding` | 118 hrs 27 mins | 91.86% |
+| `Browser` | 6 hrs 12 mins |  4.81% |
+| `Communication` | 2 hrs 31 mins |  1.96% |
+| `Entertainment` | 1 hrs 46 mins |  1.37% |
 
 ## App Details
 
 ### Coding
 
-- Category total: 105 hrs 12 mins (91.15%)
+- Category total: 118 hrs 27 mins (91.86%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Claude Code` | 95 hrs 34 mins | 82.81% | 90.85% |
-| `Orca` | 8 hrs 25 mins |  7.30% |  8.00% |
-| `Ghostty` | 1 hrs 12 mins |  1.05% |  1.15% |
+| `Claude Code` | 108 hrs 25 mins | 84.09% | 91.54% |
+| `Orca` | 8 hrs 47 mins |  6.82% |  7.43% |
+| `Ghostty` | 1 hrs 13 mins |  0.95% |  1.03% |
 
 ### Browser
 
-- Category total: 6 hrs 9 mins ( 5.33%)
+- Category total: 6 hrs 12 mins ( 4.81%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Chrome` | 6 hrs 9 mins |  5.33% | 100.00% |
+| `Chrome` | 6 hrs 12 mins |  4.81% | 100.00% |
 
 ### Communication
 
-- Category total: 2 hrs 21 mins ( 2.05%)
+- Category total: 2 hrs 31 mins ( 1.96%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `WeChat` | 2 hrs 17 mins |  1.99% | 97.16% |
-| `MicrosoftOutlook` | 4 mins |  0.06% |  2.84% |
+| `WeChat` | 2 hrs 27 mins |  1.90% | 97.03% |
+| `MicrosoftOutlook` | 4 mins |  0.06% |  2.97% |
 
 ### Entertainment
 
-- Category total: 1 hrs 41 mins ( 1.47%)
+- Category total: 1 hrs 46 mins ( 1.37%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `抖音` | 1 hrs 41 mins |  1.47% | 100.00% |
+| `抖音` | 1 hrs 44 mins |  1.36% | 98.80% |
+| `Music` | 1 mins |  0.02% |  1.20% |
