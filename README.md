@@ -1,12 +1,12 @@
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Yuhan Guo | Eohan**, a Ph.D Student @ SJTU, School of CS.
 <!--START_SECTION:waka-->
-**I'm a Daytime ☀️**
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning              35 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   26.39 %
-🌆 Daytime              36 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   26.95 %
-🌃 Evening              32 hrs 1 mins        █████░░░░░░░░░░░░░░░░░░░░   23.84 %
-🌙 Night                30 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   22.82 %
+🌞 Morning              31 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   26.90 %
+🌆 Daytime              30 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.41 %
+🌃 Evening              26 hrs 1 mins        █████░░░░░░░░░░░░░░░░░░░░   21.90 %
+🌙 Night                30 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.79 %
 ```
 
 **Mostly Coding 💻**
@@ -15,14 +15,14 @@
 🕐 Time Zone: Asia/Shanghai
 
 🔥 Activities:
-   Coding                 123 hrs 8 mins       ██████████████████████░░░   91.66 %
-   Browser                6 hrs 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    5.00 %
-   Communication          2 hrs 38 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    1.97 %
-   Entertainment          1 hrs 50 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    1.37 %
+   Coding                 110 hrs 10 mins      ███████████████████████░░   92.69 %
+   Browser                5 hrs 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.78 %
+   Communication          2 hrs 32 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    2.14 %
+   Entertainment          28 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.40 %
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ███ ███ ███ ███ ███ ███ ███ | █████████████████████████   506.03 % ✅
+   Status        ░░░ ░░░ ░░░ ░░░ ░░░ ░░░ ░░░ | ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % ❌
 ```
 
 
@@ -30,5 +30,5 @@
 
 
 
- Last Updated on 02/08/2026 15:57:50 UTC
+ Last Updated on 02/08/2026 20:51:24 UTC
 <!--END_SECTION:waka-->
