@@ -1,12 +1,12 @@
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Yuhan Guo | Eohan**, a Ph.D Student @ SJTU, School of CS.
 <!--START_SECTION:waka-->
-**I'm a Night 🦇**
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning              23 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   33.36 %
-🌆 Daytime              12 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.14 %
-🌃 Evening              9 hrs 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 %
-🌙 Night                25 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   35.77 %
+🌞 Morning              20 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   35.69 %
+🌆 Daytime              11 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.90 %
+🌃 Evening              5 hrs 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░    9.62 %
+🌙 Night                19 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   34.78 %
 ```
 
 **Mostly Coding 💻**
@@ -15,16 +15,16 @@
 🕐 Time Zone: Asia/Shanghai
 
 🔥 Activities:
-   Coding                 47 hrs 54 mins       ████████████████░░░░░░░░░   67.02 %
-   Browser                11 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
-   Other                  7 hrs 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░    9.96 %
-   Communication          3 hrs 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    4.98 %
-   Notes/Docs             47 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    1.12 %
-   Entertainment          18 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.44 %
+   Coding                 36 hrs 45 mins       ████████████████░░░░░░░░░   65.32 %
+   Browser                8 hrs 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.90 %
+   Other                  5 hrs 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+   Communication          3 hrs 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    6.50 %
+   Notes/Docs             49 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    1.48 %
+   Entertainment          13 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.41 %
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ███ ███ ███ ░░░ ███ ███ ███ | █████████████████████████   284.48 % ✅
+   Status        ░░░ ░░░ ░░░ ░░░ ░░░ ░░░ ░░░ | ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % ❌
 ```
 
 
@@ -32,5 +32,5 @@
 
 
 
- Last Updated on 30/08/2026 10:15:34 UTC
+ Last Updated on 30/08/2026 18:23:43 UTC
 <!--END_SECTION:waka-->
