@@ -3,28 +3,28 @@
 **I'm a Daytime ☀️**
 
 ```text
-🌞 Morning              2 hrs 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    2.83 %
-🌆 Daytime              27 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   35.62 %
-🌃 Evening              24 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   31.76 %
-🌙 Night                22 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.80 %
+🌞 Morning              2 hrs 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    3.11 %
+🌆 Daytime              22 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.56 %
+🌃 Evening              20 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   30.74 %
+🌙 Night                22 hrs               ████████░░░░░░░░░░░░░░░░░   32.59 %
 ```
 
-**Mostly Browsing 🌐**
+**Mostly Coding 💻**
 
 ```text
 🕐 Time Zone: Asia/Shanghai
 
 🔥 Activities:
-   Browser                34 hrs 50 mins       ███████████░░░░░░░░░░░░░░   45.37 %
-   Coding                 34 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.98 %
-   Communication          5 hrs 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    6.59 %
-   Notes/Docs             1 hrs 32 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    2.01 %
-   Entertainment          48 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    1.05 %
+   Coding                 30 hrs 34 mins       ███████████░░░░░░░░░░░░░░   45.28 %
+   Browser                30 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.97 %
+   Communication          4 hrs 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    6.54 %
+   Notes/Docs             1 hrs 31 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    2.25 %
+   Entertainment          38 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.95 %
    Other                  14 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.01 %
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ███ ███ ███ ███ ███ ███ ░░░ | █████████████████████████   348.39 % ✅
+   Status        ███ ███ ███ ███ ███ ███ ░░░ | ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % ❌
 ```
 
 
@@ -32,5 +32,5 @@
 
 
 
- Last Updated on 26/09/2026 14:04:12 UTC
+ Last Updated on 26/09/2026 18:17:48 UTC
 <!--END_SECTION:waka-->
