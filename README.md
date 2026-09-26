@@ -1,30 +1,30 @@
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Yuhan Guo | Eohan**, a Ph.D Student @ SJTU, School of CS.
 <!--START_SECTION:waka-->
-**I'm a Night 🦇**
+**I'm a Daytime ☀️**
 
 ```text
-🌞 Morning              1 hrs 33 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    2.29 %
-🌆 Daytime              21 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   31.61 %
-🌃 Evening              22 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.60 %
-🌙 Night                22 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   33.50 %
+🌞 Morning              2 hrs 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    2.91 %
+🌆 Daytime              27 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.55 %
+🌃 Evening              22 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.86 %
+🌙 Night                22 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   30.68 %
 ```
 
-**Mostly Browsing 🌐**
+**Mostly Coding 💻**
 
 ```text
 🕐 Time Zone: Asia/Shanghai
 
 🔥 Activities:
-   Browser                32 hrs 39 mins       ███████████░░░░░░░░░░░░░░   47.80 %
-   Coding                 28 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.79 %
-   Communication          4 hrs 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    7.05 %
-   Notes/Docs             1 hrs 29 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    2.19 %
-   Entertainment          47 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    1.17 %
+   Coding                 34 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.67 %
+   Browser                33 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.58 %
+   Communication          4 hrs 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    6.61 %
+   Notes/Docs             1 hrs 32 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    2.06 %
+   Entertainment          47 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    1.07 %
    Other                  14 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.01 %
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ███ ███ ███ ███ ███ ███ ░░░ | █████████████████████████   136.14 % ✅
+   Status        ███ ███ ███ ███ ███ ███ ░░░ | █████████████████████████   292.77 % ✅
 ```
 
 
@@ -32,5 +32,5 @@
 
 
 
- Last Updated on 26/09/2026 03:25:56 UTC
+ Last Updated on 26/09/2026 09:41:25 UTC
 <!--END_SECTION:waka-->

@@ -2,69 +2,69 @@
 
 This file is generated for audit/debugging. README only displays category totals.
 
-- Generated at: 2026-09-26 03:25:55 UTC
+- Generated at: 2026-09-26 09:41:24 UTC
 - Timezone: Asia/Shanghai
-- Total tracked app time: 68 hrs 18 mins
+- Total tracked app time: 74 hrs 34 mins
 
 ## Category Summary
 
 | Category | Time | Percent |
 | --- | ---: | ---: |
-| `Browser` | 32 hrs 39 mins | 47.80% |
-| `Coding` | 28 hrs 32 mins | 41.79% |
-| `Communication` | 4 hrs 48 mins |  7.05% |
-| `Notes/Docs` | 1 hrs 29 mins |  2.19% |
-| `Entertainment` | 47 mins |  1.17% |
+| `Coding` | 34 hrs 3 mins | 45.67% |
+| `Browser` | 33 hrs 14 mins | 44.58% |
+| `Communication` | 4 hrs 55 mins |  6.61% |
+| `Notes/Docs` | 1 hrs 32 mins |  2.06% |
+| `Entertainment` | 47 mins |  1.07% |
 | `Other` | 14 secs |  0.01% |
 
 ## App Details
 
-### Browser
-
-- Category total: 32 hrs 39 mins (47.80%)
-
-| App | Time | Overall Percent | Category Percent |
-| --- | ---: | ---: | ---: |
-| `Chrome` | 32 hrs 39 mins | 47.80% | 100.00% |
-
 ### Coding
 
-- Category total: 28 hrs 32 mins (41.79%)
+- Category total: 34 hrs 3 mins (45.67%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Codex Vscode` | 12 hrs 58 mins | 18.99% | 45.45% |
-| `Ghostty` | 8 hrs 50 mins | 12.95% | 30.98% |
-| `Claude Code` | 5 hrs 36 mins |  8.21% | 19.64% |
-| `Antigravity CLI` | 1 hrs 6 mins |  1.62% |  3.87% |
-| `Terminal` | 1 mins |  0.02% |  0.06% |
+| `Codex Vscode` | 14 hrs 2 mins | 18.82% | 41.20% |
+| `Ghostty` | 11 hrs 47 mins | 15.81% | 34.62% |
+| `Claude Code` | 7 hrs 6 mins |  9.54% | 20.88% |
+| `Antigravity CLI` | 1 hrs 6 mins |  1.48% |  3.25% |
+| `Terminal` | 1 mins |  0.02% |  0.05% |
 | `Codex Exec` | 0 secs |  0.00% |  0.00% |
+
+### Browser
+
+- Category total: 33 hrs 14 mins (44.58%)
+
+| App | Time | Overall Percent | Category Percent |
+| --- | ---: | ---: | ---: |
+| `Chrome` | 33 hrs 14 mins | 44.58% | 100.00% |
 
 ### Communication
 
-- Category total: 4 hrs 48 mins ( 7.05%)
+- Category total: 4 hrs 55 mins ( 6.61%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `WeChat` | 4 hrs 21 mins |  6.37% | 90.43% |
-| `MicrosoftOutlook` | 27 mins |  0.67% |  9.57% |
+| `WeChat` | 4 hrs 28 mins |  5.99% | 90.66% |
+| `MicrosoftOutlook` | 27 mins |  0.62% |  9.34% |
 
 ### Notes/Docs
 
-- Category total: 1 hrs 29 mins ( 2.19%)
+- Category total: 1 hrs 32 mins ( 2.06%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `WPSOffice` | 1 hrs 28 mins |  2.15% | 98.41% |
-| `Notes` | 1 mins |  0.03% |  1.59% |
+| `WPSOffice` | 1 hrs 30 mins |  2.03% | 98.46% |
+| `Notes` | 1 mins |  0.03% |  1.54% |
 
 ### Entertainment
 
-- Category total: 47 mins ( 1.17%)
+- Category total: 47 mins ( 1.07%)
 
 | App | Time | Overall Percent | Category Percent |
 | --- | ---: | ---: | ---: |
-| `Music` | 47 mins |  1.17% | 100.00% |
+| `Music` | 47 mins |  1.07% | 100.00% |
 
 ### Other
 
