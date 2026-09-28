@@ -3,10 +3,10 @@
 **I'm a Night 🦇**
 
 ```text
-🌞 Morning              1 hrs 53 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    2.90 %
-🌆 Daytime              20 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.17 %
-🌃 Evening              20 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   31.29 %
-🌙 Night                21 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   33.65 %
+🌞 Morning              1 hrs 33 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    2.54 %
+🌆 Daytime              19 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   30.88 %
+🌃 Evening              20 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.70 %
+🌙 Night                20 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.88 %
 ```
 
 **Mostly Coding 💻**
@@ -15,16 +15,16 @@
 🕐 Time Zone: Asia/Shanghai
 
 🔥 Activities:
-   Coding                 32 hrs 53 mins       ████████████░░░░░░░░░░░░░   50.41 %
-   Browser                26 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.75 %
-   Communication          3 hrs 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    6.03 %
-   Notes/Docs             1 hrs 32 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    2.36 %
-   Entertainment          16 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.41 %
+   Coding                 34 hrs 13 mins       █████████████░░░░░░░░░░░░   55.52 %
+   Browser                23 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   38.70 %
+   Communication          3 hrs 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░    5.09 %
+   Notes/Docs             19 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.53 %
+   Entertainment          4 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░    0.11 %
    Other                  1 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░    0.04 %
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ▒▒▒ ░░░ ░░░ ░░░ ░░░ ░░░ ░░░ | █████████████████░░░░░░░░   69.46 % ⏳
+   Status        ███ ▒▒▒ ░░░ ░░░ ░░░ ░░░ ░░░ | █████████████░░░░░░░░░░░░   53.31 % ⏳
 ```
 
 
@@ -32,5 +32,5 @@
 
 
 
- Last Updated on 28/09/2026 11:26:01 UTC
+ Last Updated on 28/09/2026 21:03:21 UTC
 <!--END_SECTION:waka-->
