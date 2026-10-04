@@ -3,10 +3,10 @@
 **I'm a Night 🦇**
 
 ```text
-🌞 Morning              6 hrs 1 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.14 %
-🌆 Daytime              9 hrs 56 mins        █████░░░░░░░░░░░░░░░░░░░░   23.33 %
-🌃 Evening              10 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.62 %
-🌙 Night                16 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.91 %
+🌞 Morning              9 hrs 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.49 %
+🌆 Daytime              9 hrs 56 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 %
+🌃 Evening              11 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   23.86 %
+🌙 Night                17 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.42 %
 ```
 
 **Mostly Coding 💻**
@@ -15,15 +15,15 @@
 🕐 Time Zone: Asia/Shanghai
 
 🔥 Activities:
-   Coding                 28 hrs 52 mins       ████████████████░░░░░░░░░   67.72 %
-   Browser                10 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   23.78 %
-   Communication          3 hrs 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    7.71 %
-   Other                  14 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.56 %
-   Entertainment          5 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░    0.23 %
+   Coding                 33 hrs 44 mins       █████████████████░░░░░░░░   68.63 %
+   Browser                11 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   23.85 %
+   Communication          3 hrs 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░    6.84 %
+   Other                  14 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░    0.48 %
+   Entertainment          5 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░    0.20 %
 
 🎯 Goals:
    Day           Mon Tue Wed Thu Fri Sat Sun | Progressing
-   Status        ███ ███ ███ ███ ███ ▒▒▒ ░░░ | ░░░░░░░░░░░░░░░░░░░░░░░░░    0.00 % ❌
+   Status        ███ ███ ███ ███ ███ ▒▒▒ ███ | █████████████████████████   132.03 % ✅
 ```
 
 
@@ -31,5 +31,5 @@
 
 
 
- Last Updated on 03/10/2026 22:39:09 UTC
+ Last Updated on 04/10/2026 04:13:52 UTC
 <!--END_SECTION:waka-->
